@@ -130,7 +130,7 @@
         </div>
       </div>
       <p class="annotation">※1．コースの変更は毎月可能です．※２．教科書や年会費などは発生しませんが、振り込み手数料は利用様負担でお願いします。※３．入会金を<span class="enhance-int-1-5">12,000</span>円お支払いいただきます。※４コースの変更は毎月可能です。</p>
-      <a href="<?php bloginfo('url'); ?>/contact" class="submit-button w-button">お申し込みはこちら</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwRr7cbATQnh0JMqdIgnJobo9EzyjhgUCdtpsn6_aPxAw2bw/viewform?fbclid=IwAR0fXoeRuYfy-uDIoq920CoZ1u0r5F76Brr-zY2keFCfpwbZdPsSF9Lsr_M" class="submit-button w-button">お申し込みはこちら</a>
     </div>
   </section>
   <div class="all-news news-top-page wf-section" id="news">

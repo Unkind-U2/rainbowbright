@@ -52,7 +52,7 @@
                 <a href="<?php bloginfo('url'); ?>/about" class="nav-link">会社概要</a>
               </li>
               <li>
-                <a href="<?php bloginfo('url'); ?>/contact" class="nav-link">申し込み</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwRr7cbATQnh0JMqdIgnJobo9EzyjhgUCdtpsn6_aPxAw2bw/viewform?fbclid=IwAR0fXoeRuYfy-uDIoq920CoZ1u0r5F76Brr-zY2keFCfpwbZdPsSF9Lsr_M" class="nav-link">申し込み</a>
               </li>
             </ul>
           </nav>
