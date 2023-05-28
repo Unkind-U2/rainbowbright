@@ -114,7 +114,7 @@
         </div>
         <div class="price-row">
           <div id="w-node-_50df48f4-cbe6-c4be-c0f7-d789059cf334-bc841301" class="course">個別指導無し</div>
-          <div id="w-node-_50df48f4-cbe6-c4be-c0f7-d789059cf336-bc841301" class="course-price">￥<span class="enhance-int-2-0">8,000</span>/月</div>
+          <div id="w-node-_50df48f4-cbe6-c4be-c0f7-d789059cf336-bc841301" class="course-price">￥<span class="enhance-int-2-0">5,000</span>/月</div>
         </div>
         <div class="price-row">
           <div id="w-node-_50df48f4-cbe6-c4be-c0f7-d789059cf339-bc841301" class="course"><span class="enhance-int-1-5">4</span>回コース</div>
@@ -122,11 +122,11 @@
         </div>
         <div class="price-row">
           <div id="w-node-_50df48f4-cbe6-c4be-c0f7-d789059cf33e-bc841301" class="course"><span class="enhance-int-1-5">8</span>回コース</div>
-          <div id="w-node-_50df48f4-cbe6-c4be-c0f7-d789059cf340-bc841301" class="course-price">￥<span class="enhance-int-2-0">34,000</span>/月</div>
+          <div id="w-node-_50df48f4-cbe6-c4be-c0f7-d789059cf340-bc841301" class="course-price">￥<span class="enhance-int-2-0">29,000</span>/月</div>
         </div>
         <div class="price-row">
           <div id="w-node-_50df48f4-cbe6-c4be-c0f7-d789059cf343-bc841301" class="course"><span class="enhance-int-1-5">12</span>回コース</div>
-          <div id="w-node-_50df48f4-cbe6-c4be-c0f7-d789059cf345-bc841301" class="course-price">￥<span class="enhance-int-2-0">48,000</span>/円</div>
+          <div id="w-node-_50df48f4-cbe6-c4be-c0f7-d789059cf345-bc841301" class="course-price">￥<span class="enhance-int-2-0">38,000</span>/円</div>
         </div>
       </div>
       <p class="annotation">※1．コースの変更は毎月可能です．※２．教科書や年会費などは発生しませんが、振り込み手数料は利用様負担でお願いします。※３．入会金を<span class="enhance-int-1-5">12,000</span>円お支払いいただきます。※４コースの変更は毎月可能です。</p>
