@@ -1,0 +1,4512 @@
+# Translation of Plugins - Ninja Forms Contact Form &#8211; The Drag and Drop Form Builder for WordPress - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Ninja Forms Contact Form &#8211; The Drag and Drop Form Builder for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-31 00:18:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Ninja Forms Contact Form &#8211; The Drag and Drop Form Builder for WordPress - Stable (latest release)\n"
+
+#: includes/Abstracts/Field.php:158
+msgid "This field is required."
+msgstr "この欄は入力必須です。"
+
+#: includes/Config/FieldSettings.php:872
+msgid "Please wait %s seconds"
+msgstr "%s秒お待ちください"
+
+#: includes/Fields/ListImage.php:32
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: includes/Config/FieldSettings.php:284
+msgid "Image Options"
+msgstr "画像設定"
+
+#: includes/Config/FieldSettings.php:233
+msgid "Show Labels"
+msgstr "ラベルを表示"
+
+#: includes/Config/FieldSettings.php:206
+msgid "Number of Columns"
+msgstr "カラム数"
+
+#: includes/Config/FieldSettings.php:194
+msgid "Vertical"
+msgstr "垂直"
+
+#: includes/Config/FieldSettings.php:193
+msgid "Horizontal"
+msgstr "水平"
+
+#: includes/Config/MergeTagsForm.php:14 build/submissions.js:1
+msgid "Form ID"
+msgstr "フォーム ID"
+
+#: includes/Templates/admin-menu-new-form.html.php:900
+msgid "Image"
+msgstr "画像"
+
+#: includes/Templates/admin-menu-new-form.html.php:597
+msgid "Reset"
+msgstr "リセット"
+
+#: includes/Config/Currency.php:105
+msgid "Chinese Yuan"
+msgstr "中国人民元"
+
+#: includes/Admin/Menus/SystemStatus.php:179
+msgid "Enabled"
+msgstr "有効"
+
+#: includes/Config/Currency.php:101
+msgid "Russian Ruble"
+msgstr "ロシア・ルーブル"
+
+#: includes/Templates/admin-menu-new-form.html.php:588
+#: includes/Templates/admin-menu-new-form.html.php:596
+msgid "Copy"
+msgstr "コピー"
+
+#: includes/Admin/Menus/SystemStatus.php:179
+msgid "Disabled"
+msgstr "無効"
+
+#: includes/Integrations/sendwp.php:9 includes/Integrations/sendwp.php:67
+msgid "Something went wrong. SendWP was not installed correctly."
+msgstr "問題が発生しました。SendWP を正常にインストールできませんでした。"
+
+#: includes/Templates/admin-menu-dashboard.html.php:130
+msgid "Required Updates"
+msgstr "必須の更新"
+
+#: ninja-forms.php:1280
+msgid "Once per week"
+msgstr "週1回"
+
+#: includes/Admin/Menus/Settings.php:192 includes/Admin/Menus/Settings.php:218
+#: includes/Config/PluginSettingsAdvanced.php:115
+msgid "Downgrade"
+msgstr "ダウングレード"
+
+#: includes/Admin/Menus/Settings.php:191 includes/Admin/Menus/Settings.php:217
+msgid "Type "
+msgstr "タイプ"
+
+#: includes/Fields/ListCountry.php:108 includes/Fields/ListCountry.php:127
+msgid "Select Country"
+msgstr "国を選択"
+
+#: includes/Config/i18nBuilder.php:78
+msgid "Max Value"
+msgstr "最大値"
+
+#: includes/Config/i18nBuilder.php:77
+msgid "Min Value"
+msgstr "最小値"
+
+#: includes/Config/PluginSettingsAdvanced.php:123
+msgid "Move To Trash"
+msgstr "ゴミ箱へ移動"
+
+#: includes/Templates/admin-menu-dashboard.html.php:98
+msgid "Setup"
+msgstr "セットアップ"
+
+#: includes/Config/i18nDashboard.php:96
+msgid "Unable to update the service."
+msgstr "サービスを更新できません。"
+
+#: includes/Config/i18nDashboard.php:90
+msgid "Disconnect"
+msgstr "接続解除"
+
+#: services/bootstrap.php:73 services/bootstrap.php:83
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "このサイトにプラグインをインストールする権限がありません。"
+
+#: includes/Config/i18nDashboard.php:81
+msgid "Processing..."
+msgstr "処理中…"
+
+#: includes/Config/i18nDashboard.php:80
+msgid "Clean up my data"
+msgstr "データをクリーンアップ"
+
+#: includes/Config/DashboardMenuItems.php:11
+msgid "Services"
+msgstr "サービス"
+
+#: includes/Config/i18nDashboard.php:77
+msgid "Thank you for opting in!"
+msgstr "オプトインありがとうございます。"
+
+#: includes/Config/PluginSettingsAdvanced.php:74
+msgid "Allow Telemetry"
+msgstr "テレメトリーを許可"
+
+#: includes/Config/PluginSettingsAdvanced.php:73
+msgid "Opt-out"
+msgstr "オプトアウト"
+
+#: includes/Config/PluginSettingsAdvanced.php:73
+msgid "Opt-in"
+msgstr "オプトイン"
+
+#: includes/Config/ActionSaveSettings.php:24
+msgid "Save None"
+msgstr "何も保存しない"
+
+#: includes/Config/ActionSaveSettings.php:23
+msgid "Save All"
+msgstr "すべて保存"
+
+#: includes/Actions/DeleteDataRequest.php:35
+#: includes/Config/NewFormTemplates.php:61
+msgid "Delete Data Request"
+msgstr "データリクエストを削除"
+
+#: includes/Config/FormDisplaySettings.php:212
+#: includes/Config/i18nFrontEnd.php:11
+msgid "Please enter a valid date!"
+msgstr "有効な日付を入力してください。"
+
+#: includes/Config/NewFormTemplates.php:164
+msgid "Register a WordPress User"
+msgstr "WordPress ユーザーを登録"
+
+#: includes/Config/NewFormTemplates.php:163
+msgid "Register a User"
+msgstr "ユーザーを登録"
+
+#: includes/Config/NewFormTemplates.php:146
+msgid "Create a Post"
+msgstr "投稿を作成"
+
+#: includes/Config/NewFormTemplates.php:129
+msgid "PayPal Payment"
+msgstr "PayPal ペイメント"
+
+#: includes/Config/NewFormTemplates.php:111
+msgid "File Upload"
+msgstr "ファイルのアップロード"
+
+#: includes/Config/NewFormTemplates.php:95
+msgid "Stripe Payment"
+msgstr "Stripe ペイメント"
+
+#: includes/Config/NewFormTemplates.php:49
+msgid "Questionnaire"
+msgstr "アンケート"
+
+#: includes/Actions/Akismet.php:38
+msgid "Akismet Anti-Spam"
+msgstr "Akismet Anti-Spam (アンチスパム)"
+
+#: includes/Templates/admin-metabox-sub-info.html.php:34 build/submissions.js:1
+msgid "Move to Trash"
+msgstr "ゴミ箱へ移動"
+
+#: includes/Config/PluginSettingsAdvanced.php:15
+msgid "Delete All Data"
+msgstr "すべてのデータを削除"
+
+#: includes/Admin/Menus/Submissions.php:150
+#: includes/Admin/Menus/Submissions.php:158
+msgid "Trashed"
+msgstr "ゴミ箱に移動済み"
+
+#: includes/Admin/Menus/Submissions.php:147
+#: includes/Admin/Menus/Submissions.php:156
+msgid "Completed"
+msgstr "完了"
+
+#: includes/AJAX/REST/BatchProcess.php:43
+#: includes/AJAX/REST/BatchProcess.php:48
+msgid "Invalid request."
+msgstr "無効なリクエスト。"
+
+#: includes/AJAX/Controllers/DeleteAllData.php:23
+#: includes/AJAX/Controllers/Fields.php:31
+#: includes/AJAX/REST/BatchProcess.php:22
+#: includes/AJAX/REST/BatchProcess.php:30 includes/AJAX/REST/Forms.php:30
+#: includes/AJAX/REST/Forms.php:55 includes/AJAX/REST/Forms.php:78
+#: includes/AJAX/REST/NewFormTemplates.php:22
+#: includes/AJAX/REST/RequiredUpdate.php:33
+msgid "Request forbidden."
+msgstr "リクエストは禁止されています。"
+
+#: includes/Display/Preview.php:56 includes/Display/Preview.php:62
+msgid "You must provide a valid form ID."
+msgstr "有効なフォーム ID を入力してください。"
+
+#: includes/AJAX/Controllers/Submission.php:91
+msgid "Form does not exist."
+msgstr "フォームが存在しません。"
+
+#: includes/Config/FieldSettings.php:447
+msgid "This value will be used as the HTML input \"name\" attribute."
+msgstr "この値は HTML インプットの \"name\" 属性として使用されます。"
+
+#: includes/Config/FieldSettings.php:443
+msgid "Custom Name Attribute"
+msgstr "カスタムの名前属性"
+
+#: includes/Admin/AddFormModal.php:99
+msgid "Insert Form"
+msgstr "フォームを挿入"
+
+#: includes/Config/i18nBuilder.php:72 includes/Config/i18nDashboard.php:60
+#: includes/Config/i18nFrontEnd.php:88
+msgid "Sa"
+msgstr "土"
+
+#: includes/Config/i18nBuilder.php:71 includes/Config/i18nDashboard.php:59
+#: includes/Config/i18nFrontEnd.php:87
+msgid "Fr"
+msgstr "金"
+
+#: includes/Config/i18nBuilder.php:70 includes/Config/i18nDashboard.php:58
+#: includes/Config/i18nFrontEnd.php:86
+msgid "Th"
+msgstr "木"
+
+#: includes/Config/i18nBuilder.php:69 includes/Config/i18nDashboard.php:57
+#: includes/Config/i18nFrontEnd.php:85
+msgid "We"
+msgstr "水"
+
+#: includes/Config/i18nBuilder.php:68 includes/Config/i18nDashboard.php:56
+#: includes/Config/i18nFrontEnd.php:84
+msgid "Tu"
+msgstr "火"
+
+#: includes/Config/i18nBuilder.php:67 includes/Config/i18nDashboard.php:55
+#: includes/Config/i18nFrontEnd.php:83
+msgid "Mo"
+msgstr "月"
+
+#: includes/Config/i18nBuilder.php:66 includes/Config/i18nDashboard.php:54
+#: includes/Config/i18nFrontEnd.php:82
+msgid "Su"
+msgstr "日"
+
+#: includes/Config/i18nBuilder.php:63 includes/Config/i18nDashboard.php:51
+#: includes/Config/i18nFrontEnd.php:79
+msgid "Sat"
+msgstr "土"
+
+#: includes/Config/i18nBuilder.php:62 includes/Config/i18nDashboard.php:50
+#: includes/Config/i18nFrontEnd.php:78
+msgid "Fri"
+msgstr "金"
+
+#: includes/Config/i18nBuilder.php:61 includes/Config/i18nDashboard.php:49
+#: includes/Config/i18nFrontEnd.php:77
+msgid "Thu"
+msgstr "木"
+
+#: includes/Config/i18nBuilder.php:60 includes/Config/i18nDashboard.php:48
+#: includes/Config/i18nFrontEnd.php:76
+msgid "Wed"
+msgstr "水"
+
+#: includes/Config/i18nBuilder.php:59 includes/Config/i18nDashboard.php:47
+#: includes/Config/i18nFrontEnd.php:75
+msgid "Tue"
+msgstr "火"
+
+#: includes/Config/i18nBuilder.php:58 includes/Config/i18nDashboard.php:46
+#: includes/Config/i18nFrontEnd.php:74
+msgid "Mon"
+msgstr "月"
+
+#: includes/Config/i18nBuilder.php:57 includes/Config/i18nDashboard.php:45
+#: includes/Config/i18nFrontEnd.php:73
+msgid "Sun"
+msgstr "日"
+
+#: includes/Config/i18nBuilder.php:54 includes/Config/i18nDashboard.php:42
+#: includes/Config/i18nFrontEnd.php:70
+msgid "Saturday"
+msgstr "土曜日"
+
+#: includes/Config/i18nBuilder.php:53 includes/Config/i18nDashboard.php:41
+#: includes/Config/i18nFrontEnd.php:69
+msgid "Friday"
+msgstr "金曜日"
+
+#: includes/Config/i18nBuilder.php:52 includes/Config/i18nDashboard.php:40
+#: includes/Config/i18nFrontEnd.php:68
+msgid "Thursday"
+msgstr "木曜日"
+
+#: includes/Config/i18nBuilder.php:51 includes/Config/i18nDashboard.php:39
+#: includes/Config/i18nFrontEnd.php:67
+msgid "Wednesday"
+msgstr "水曜日"
+
+#: includes/Config/i18nBuilder.php:50 includes/Config/i18nDashboard.php:38
+#: includes/Config/i18nFrontEnd.php:66
+msgid "Tuesday"
+msgstr "火曜日"
+
+#: includes/Config/i18nBuilder.php:49 includes/Config/i18nDashboard.php:37
+#: includes/Config/i18nFrontEnd.php:65
+msgid "Monday"
+msgstr "月曜日"
+
+#: includes/Config/i18nBuilder.php:48 includes/Config/i18nDashboard.php:36
+#: includes/Config/i18nFrontEnd.php:64
+msgid "Sunday"
+msgstr "日曜日"
+
+#: includes/Config/i18nBuilder.php:45 includes/Config/i18nDashboard.php:33
+#: includes/Config/i18nFrontEnd.php:61
+msgid "Dec"
+msgstr "12月"
+
+#: includes/Config/i18nBuilder.php:44 includes/Config/i18nDashboard.php:32
+#: includes/Config/i18nFrontEnd.php:60
+msgid "Nov"
+msgstr "11月"
+
+#: includes/Config/i18nBuilder.php:43 includes/Config/i18nDashboard.php:31
+#: includes/Config/i18nFrontEnd.php:59
+msgid "Oct"
+msgstr "10月"
+
+#: includes/Config/i18nBuilder.php:42 includes/Config/i18nDashboard.php:30
+#: includes/Config/i18nFrontEnd.php:58
+msgid "Sep"
+msgstr "9月"
+
+#: includes/Config/i18nBuilder.php:41 includes/Config/i18nDashboard.php:29
+#: includes/Config/i18nFrontEnd.php:57
+msgid "Aug"
+msgstr "8月"
+
+#: includes/Config/i18nBuilder.php:40 includes/Config/i18nDashboard.php:28
+#: includes/Config/i18nFrontEnd.php:56
+msgid "Jul"
+msgstr "7月"
+
+#: includes/Config/i18nBuilder.php:39 includes/Config/i18nDashboard.php:27
+#: includes/Config/i18nFrontEnd.php:55
+msgid "Jun"
+msgstr "6月"
+
+#: includes/Config/i18nBuilder.php:37 includes/Config/i18nDashboard.php:25
+#: includes/Config/i18nFrontEnd.php:53
+msgid "Apr"
+msgstr "4月"
+
+#: includes/Config/i18nBuilder.php:36 includes/Config/i18nDashboard.php:24
+#: includes/Config/i18nFrontEnd.php:52
+msgid "Mar"
+msgstr "3月"
+
+#: includes/Config/i18nBuilder.php:35 includes/Config/i18nDashboard.php:23
+#: includes/Config/i18nFrontEnd.php:51
+msgid "Feb"
+msgstr "2月"
+
+#: includes/Config/i18nBuilder.php:34 includes/Config/i18nDashboard.php:22
+#: includes/Config/i18nFrontEnd.php:50
+msgid "Jan"
+msgstr "1月"
+
+#: includes/Config/i18nBuilder.php:31 includes/Config/i18nDashboard.php:19
+#: includes/Config/i18nFrontEnd.php:47
+msgid "December"
+msgstr "12月"
+
+#: includes/Config/i18nBuilder.php:30 includes/Config/i18nDashboard.php:18
+#: includes/Config/i18nFrontEnd.php:46
+msgid "November"
+msgstr "11月"
+
+#: includes/Config/i18nBuilder.php:29 includes/Config/i18nDashboard.php:17
+#: includes/Config/i18nFrontEnd.php:45
+msgid "October"
+msgstr "10月"
+
+#: includes/Config/i18nBuilder.php:28 includes/Config/i18nDashboard.php:16
+#: includes/Config/i18nFrontEnd.php:44
+msgid "September"
+msgstr "9月"
+
+#: includes/Config/i18nBuilder.php:27 includes/Config/i18nDashboard.php:15
+#: includes/Config/i18nFrontEnd.php:43
+msgid "August"
+msgstr "8月"
+
+#: includes/Config/i18nBuilder.php:26 includes/Config/i18nDashboard.php:14
+#: includes/Config/i18nFrontEnd.php:42
+msgid "July"
+msgstr "7月"
+
+#: includes/Config/i18nBuilder.php:25 includes/Config/i18nDashboard.php:13
+#: includes/Config/i18nFrontEnd.php:41
+msgid "June"
+msgstr "6月"
+
+#: includes/Config/i18nBuilder.php:24 includes/Config/i18nBuilder.php:38
+#: includes/Config/i18nDashboard.php:12 includes/Config/i18nDashboard.php:26
+#: includes/Config/i18nFrontEnd.php:40 includes/Config/i18nFrontEnd.php:54
+msgid "May"
+msgstr "5月"
+
+#: includes/Config/i18nBuilder.php:23 includes/Config/i18nDashboard.php:11
+#: includes/Config/i18nFrontEnd.php:39
+msgid "April"
+msgstr "4月"
+
+#: includes/Config/i18nBuilder.php:22 includes/Config/i18nDashboard.php:10
+#: includes/Config/i18nFrontEnd.php:38
+msgid "March"
+msgstr "3月"
+
+#: includes/Config/i18nBuilder.php:21 includes/Config/i18nDashboard.php:9
+#: includes/Config/i18nFrontEnd.php:37
+msgid "February"
+msgstr "2月"
+
+#: includes/Config/i18nBuilder.php:20 includes/Config/i18nDashboard.php:8
+#: includes/Config/i18nFrontEnd.php:36
+msgid "January"
+msgstr "1月"
+
+#: includes/Config/i18nBuilder.php:18 includes/Config/i18nDashboard.php:6
+#: includes/Config/i18nFrontEnd.php:34
+msgid "Next Month"
+msgstr "来月"
+
+#: includes/Config/i18nBuilder.php:17 includes/Config/i18nDashboard.php:5
+#: includes/Config/i18nFrontEnd.php:33
+msgid "Previous Month"
+msgstr "先月"
+
+#: includes/Config/FieldSettings.php:177
+msgid "Unchecked Value"
+msgstr "未チェックの値"
+
+#: includes/Config/FieldSettings.php:170
+msgid "Checked Value"
+msgstr "チェック済みの値"
+
+#: includes/Config/FieldSettings.php:163
+msgid "Checkbox Values"
+msgstr "チェックボックスの値"
+
+#: includes/Templates/admin-metabox-import-export-forms-export.html.php:46
+msgid "Disable UTF-8 Encoding"
+msgstr "UTF-8 エンコーディングを無効化"
+
+#: includes/Config/MergeTagsForm.php:53
+msgid "Submission Count"
+msgstr "送信数"
+
+#: includes/Fields/Confirm.php:41
+msgid "Fields do not match."
+msgstr "フィールドが一致しません。"
+
+#: includes/Config/MergeTagsWP.php:183
+msgid "User Meta"
+msgstr "ユーザーメタ"
+
+#: includes/Config/MergeTagsOther.php:38
+msgid "Time"
+msgstr "時間"
+
+#: includes/Config/Currency.php:93
+msgid "South African Rand"
+msgstr "南アフリカ・ランド"
+
+#: includes/Templates/admin-menu-system-status.html.php:56
+msgid "Activated Plugins"
+msgstr "有効化済みプラグイン"
+
+#: includes/Templates/admin-menu-system-status.html.php:23
+msgid "Submit a Support Request"
+msgstr "サポートリクエストを送信"
+
+#: includes/Templates/admin-menu-system-status.html.php:22
+msgid "Copy System Report"
+msgstr "システムレポートをコピー"
+
+#: includes/Templates/admin-menu-system-status.html.php:18
+msgid "Click \"Submit a Support Request\" to be directed to our site."
+msgstr "サイトに移動するには、 「サポートリクエストを送信」をクリックしてください。"
+
+#: includes/Templates/admin-menu-system-status.html.php:17
+msgid "Copy your System Report first with the button below"
+msgstr "まず以下のボタンを使用してシステムレポートをコピーしてください"
+
+#: includes/Templates/admin-menu-system-status.html.php:7
+msgid "Ninja Forms Email troubleshooting"
+msgstr "Ninja Forms メールのトラブルシューティング"
+
+#: includes/Integrations/EDD/class-extension-updater.php:111
+msgid "License Activation Error"
+msgstr "ライセンス認証エラー"
+
+#: includes/Fields/Recaptcha.php:45
+msgid "Select whether to display a \"I'm not a robot\" field or to detect if the user is a robot in the background."
+msgstr "「私はボットではありません」というフィールドを表示するか、バックグラウンドでユーザーがボットかどうかを検出するかどうかを選択します。"
+
+#: includes/Fields/Recaptcha.php:38
+msgid "Invisible"
+msgstr "非表示"
+
+#: includes/Fields/Recaptcha.php:34
+msgid "Visible"
+msgstr "表示"
+
+#: includes/Fields/Recaptcha.php:31
+msgid "Visibility"
+msgstr "表示状態"
+
+#: includes/Admin/Menus/SystemStatus.php:160
+msgid "None Logged"
+msgstr "ログなし"
+
+#: includes/Config/i18nBuilder.php:16
+msgid "Possible issue detected. %sLearn More%s"
+msgstr "問題の可能性がある点が検出されました。%s詳細%s"
+
+#: includes/Config/FormRestrictionSettings.php:47
+msgid "A form with this value has already been submitted."
+msgstr "この値を含むフォームがすでに送信されています。"
+
+#: includes/Config/FormRestrictionSettings.php:44
+msgid "Unique Field Error Message"
+msgstr "ユニークフィールドエラーメッセージ"
+
+#: includes/Config/FormRestrictionSettings.php:12
+msgid "Unique Field"
+msgstr "ユニークフィールド"
+
+#: includes/Config/ActionCollectPaymentSettings.php:88
+msgid "Enter Amount"
+msgstr "数量を入力"
+
+#: includes/Config/ActionCollectPaymentSettings.php:70
+msgid "Select Field"
+msgstr "フィールドを選択"
+
+#: includes/Config/ActionCollectPaymentSettings.php:52
+msgid "Select Calculation"
+msgstr "計算を選択"
+
+#: includes/Config/ActionCollectPaymentSettings.php:43
+msgid "Fixed Amount"
+msgstr "固定数量"
+
+#: includes/Config/ActionCollectPaymentSettings.php:36
+msgid "Get Total From"
+msgstr "合計を入手:"
+
+#: includes/Admin/Menus/SystemStatus.php:142
+msgid "Not Supported"
+msgstr "サポート対象外"
+
+#: includes/Admin/Menus/SystemStatus.php:142
+msgid "Supported"
+msgstr "サポートあり"
+
+#: includes/Config/Currency.php:65
+msgid "British Pounds Sterling"
+msgstr "英国ポンド"
+
+#: includes/Admin/CPT/Submission.php:359
+msgid "Anonymous"
+msgstr "匿名"
+
+#: includes/Templates/admin-menu-new-form.html.php:935
+msgid "Decimals"
+msgstr "小数"
+
+#: includes/Templates/admin-menu-new-form.html.php:198
+msgid "It's that easy."
+msgstr "簡単です。"
+
+#: includes/Templates/admin-menu-dashboard.html.php:234
+msgid "Loading Forms"
+msgstr "フォーム読み込み中"
+
+#: includes/Templates/admin-menu-dashboard.html.php:231
+msgid "No Forms"
+msgstr "フォームなし"
+
+#: includes/Templates/admin-menu-dashboard.html.php:192
+msgid "Less"
+msgstr "より少ない"
+
+#: includes/Templates/admin-menu-dashboard.html.php:191
+msgid "More"
+msgstr "より多い"
+
+#: includes/Templates/admin-menu-dashboard.html.php:186
+msgid "Loading Forms..."
+msgstr "フォーム読み込み中…"
+
+#: includes/Templates/admin-menu-dashboard.html.php:180
+msgid "Title"
+msgstr "タイトル"
+
+#: includes/Templates/admin-menu-dashboard.html.php:174
+msgid "Search Forms"
+msgstr "検索フォーム"
+
+#: includes/Templates/admin-menu-dashboard.html.php:10
+msgid "Ninja Forms Dashboard"
+msgstr "Ninja Forms ダッシュボード"
+
+#: includes/Templates/admin-menu-addons.html.php:53
+msgid "Docs"
+msgstr "ドキュメント"
+
+#: includes/MergeTags/WP.php:13
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/MergeTags/Other.php:13
+msgid "Other"
+msgstr "その他"
+
+#: includes/Fields/ListState.php:26
+msgid "US States"
+msgstr "米国州"
+
+#: includes/Config/MergeTagsWP.php:170
+msgid "User URL"
+msgstr "ユーザーの URL"
+
+#: includes/Config/MergeTagsWP.php:79
+msgid "Post Meta"
+msgstr "投稿メタ情報"
+
+#: includes/Config/MergeTagsOther.php:51
+msgid "User IP Address"
+msgstr "ユーザー IP アドレス"
+
+#: includes/Config/MergeTagsFieldsAJAX.php:16
+#: includes/Config/MergeTagsForm.php:74
+msgid "Fields Table"
+msgstr "フィールドテーブル"
+
+#: includes/Config/MergeTagsFieldsAJAX.php:8
+#: includes/Config/MergeTagsForm.php:67
+msgid "All Fields Table"
+msgstr "すべてのフィールドテーブル"
+
+#: includes/Config/MergeTagsDeprecated.php:118
+#: includes/Config/MergeTagsWP.php:131
+msgid "User Display Name"
+msgstr "ユーザーの表示名"
+
+#: includes/Config/MergeTagsDeprecated.php:105
+#: includes/Config/MergeTagsWP.php:118
+msgid "User Last Name"
+msgstr "ユーザーの姓"
+
+#: includes/Config/MergeTagsDeprecated.php:92
+#: includes/Config/MergeTagsWP.php:105
+msgid "User First Name"
+msgstr "ユーザーの名"
+
+#: includes/Config/FormCalculationSettings.php:26
+msgid "Precision"
+msgstr "精度"
+
+#: includes/Config/DashboardMenuItems.php:15
+msgid "Apps & Integrations"
+msgstr "アプリと連携"
+
+#: includes/Admin/Menus/Dashboard.php:23
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: includes/Admin/AllFormsTable.php:101
+msgid "date"
+msgstr "日付"
+
+#: includes/AJAX/REST/NewFormTemplates.php:31
+msgid "The blank form allows you to create any type of form using our drag & drop builder."
+msgstr "空のフォームを使えば、ドラッグ & ドロップビルダーを使ってどんな種類のフォームでも作れます。"
+
+#: includes/AJAX/REST/NewFormTemplates.php:30
+msgid "Blank Form"
+msgstr "空のフォーム"
+
+#: includes/AJAX/REST/Controller.php:55
+msgid "Endpoint does not exist."
+msgstr "エンドポイントが存在しません。"
+
+#: lib/NF_VersionSwitcher.php:276
+msgid "Looks Good!"
+msgstr "問題ありません。"
+
+#: lib/NF_VersionSwitcher.php:276
+msgid "upgrade_compelte_notice"
+msgstr "upgrade_compelte_notice"
+
+#: lib/NF_VersionSwitcher.php:275
+msgid "Something is wrong..."
+msgstr "何かが間違っているようです。"
+
+#: lib/NF_VersionSwitcher.php:273
+msgid "Your forms were upgraded. Take a look around and make sure everything looks right."
+msgstr "フォームがアップグレードされました。すべて問題ないかチェックしてください。"
+
+#: lib/NF_VersionSwitcher.php:272
+msgid "How do I look?"
+msgstr "いかがですか ?"
+
+#: includes/Config/FormRestrictionSettings.php:124
+msgid "The form has reached its submission limit."
+msgstr "フォームは送信制限に達しました。"
+
+#: includes/Config/FieldSettings.php:1123
+msgid "Use Inline Quantity"
+msgstr "数量埋め込みを使用"
+
+#: includes/Admin/Menus/Settings.php:75
+msgid "Contact Form 7 is currently activated."
+msgstr "Contact Form 7 が現在有効になっています。"
+
+#: includes/Admin/AllFormsTable.php:76
+msgid "Created"
+msgstr "作成済み"
+
+#: includes/Actions/Custom.php:35
+msgid "WP Hook"
+msgstr "WordPress フック"
+
+#: includes/Templates/admin-menu-new-form.html.php:535
+msgid "Label, Value, Calc Value"
+msgstr "ラベル、値、計算値"
+
+#: includes/Templates/admin-menu-new-form.html.php:532
+msgid "Please use the following format"
+msgstr "次の形式を使用してください"
+
+#: includes/Admin/AllFormsTable.php:40
+msgid "Really Delete This Form? This will remove all fields and submission data. Recovery is not possible."
+msgstr "このフォームを本当に削除しますか ? 実行すると、すべてのフィールドと送信データが削除されます。回復は不可能です。"
+
+#: includes/Integrations/EDD/EDD_SL_Plugin_Updater.php:227
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "利用可能な %1$s の新しいバージョンがあります。%2$sバージョン %3$sの詳細%4$sを確認するか、%5$s今すぐ更新%6$sしてください。"
+
+#: includes/Integrations/EDD/EDD_SL_Plugin_Updater.php:219
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "利用可能な %1$s の新しいバージョンがあります。%2$sバージョン %3$sの詳細%4$sを確認する。"
+
+#: ninja-forms.php:1276
+msgid "Once per month"
+msgstr "月1回"
+
+#: includes/Fields/Date.php:55
+msgid "Y.m.d"
+msgstr "Y.m.d"
+
+#: includes/Fields/Date.php:52
+msgid "d.m.Y"
+msgstr "d.m.Y"
+
+#: includes/Fields/Date.php:49
+msgid "m.d.Y"
+msgstr "m.d.Y"
+
+#: includes/Config/MergeTagsDeprecated.php:144
+#: includes/Config/MergeTagsWP.php:196
+msgid "Site Title"
+msgstr "サイトのタイトル"
+
+#: includes/Config/MergeTagsDeprecated.php:66
+#: includes/Config/MergeTagsWP.php:66
+msgid "Post Author Email"
+msgstr "投稿者メールアドレス"
+
+#: includes/Config/MergeTagsDeprecated.php:53
+#: includes/Config/MergeTagsWP.php:53
+msgid "Post Author"
+msgstr "投稿者"
+
+#: includes/Config/FormDisplaySettings.php:199
+msgid "Custom Labels"
+msgstr "ラベルのカスタム"
+
+#: includes/Config/FieldSettings.php:690
+msgid "End Year"
+msgstr "終了年"
+
+#: includes/Config/FieldSettings.php:684
+msgid "Start Year"
+msgstr "開始年"
+
+#: includes/Config/FieldSettings.php:677
+msgid "Year Range"
+msgstr "年の範囲"
+
+#: includes/Config/FieldSettings.php:633
+msgid "YYYY.MM.DD"
+msgstr "YYYY.MM.DD"
+
+#: includes/Config/FieldSettings.php:621
+msgid "MM.DD.YYYY"
+msgstr "MM.DD.YYYY"
+
+#: includes/Config/FieldSettings.php:609
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+#: includes/AJAX/Controllers/Submission.php:564
+#: includes/AJAX/REST/Controller.php:99
+msgid "The server encountered an error during processing."
+msgstr "処理中にサーバーでエラーが発生しました。"
+
+#: includes/Libraries/BackgroundProcessing/classes/wp-background-process.php:425
+msgid "Every %d Minutes"
+msgstr "%d分毎"
+
+#: includes/Config/PluginSettingsAdvanced.php:117
+msgid "Please export any forms or submissions you do not want to be lost during this process."
+msgstr "この過程で紛失したくないフォームや送信データはエクスポートしてください。"
+
+#: includes/Config/PluginSettingsAdvanced.php:117
+msgid "IMPORTANT: All 3.0 data will be removed."
+msgstr "重要: すべての 3.0 データが削除されます。"
+
+#: includes/Config/FormDisplaySettings.php:273
+msgid "Plugin Default"
+msgstr "プラグインのデフォルト"
+
+#: includes/Config/Currency.php:89
+msgid "U.S. Dollars"
+msgstr "米ドル"
+
+#: includes/Config/Currency.php:85
+msgid "Thai Baht"
+msgstr "タイ・バーツ"
+
+#: includes/Config/Currency.php:81
+msgid "Taiwan New Dollars"
+msgstr "台湾新ドル"
+
+#: includes/Config/Currency.php:77
+msgid "Swiss Franc"
+msgstr "スイス・フラン"
+
+#: includes/Config/Currency.php:73
+msgid "Swedish Krona"
+msgstr "スウェーデン・クローナ"
+
+#: includes/Config/Currency.php:69
+msgid "Singapore Dollars"
+msgstr "シンガポールドル"
+
+#: includes/Config/Currency.php:61
+msgid "Polish Zloty"
+msgstr "ポーランド・ズウォティ"
+
+#: includes/Config/Currency.php:57
+msgid "Philippine Pesos"
+msgstr "フィリピン・ペソ"
+
+#: includes/Config/Currency.php:53
+msgid "New Zealand Dollars"
+msgstr "ニュージーランドドル"
+
+#: includes/Config/Currency.php:49
+msgid "Norwegian Krone"
+msgstr "ノルウェー・クローネ"
+
+#: includes/Config/Currency.php:41
+msgid "Mexican Pesos"
+msgstr "メキシコペソ"
+
+#: includes/Config/Currency.php:37
+msgid "Japanese Yen"
+msgstr "日本円"
+
+#: includes/Config/Currency.php:33
+msgid "Israeli New Sheqels"
+msgstr "イスラエル・新シェケル"
+
+#: includes/Config/Currency.php:29
+msgid "Hungarian Forints"
+msgstr "ハンガリーフォリント"
+
+#: includes/Config/Currency.php:25
+msgid "Hong Kong Dollars"
+msgstr "香港ドル"
+
+#: includes/Config/Currency.php:21
+msgid "Euros"
+msgstr "ユーロ"
+
+#: includes/Config/Currency.php:17
+msgid "Danish Krone"
+msgstr "デンマーク・クローネ"
+
+#: includes/Config/Currency.php:13
+msgid "Czech Koruna"
+msgstr "チェコ・コルナ"
+
+#: includes/Config/Currency.php:9
+msgid "Canadian Dollars"
+msgstr "カナダドル"
+
+#: includes/Config/Currency.php:5
+msgid "Australian Dollars"
+msgstr "オーストラリアドル"
+
+#: ninja-forms.php:1087
+msgid "%1$s is <strong>deprecated</strong> since Ninja Forms version %2$s."
+msgstr "Ninja Forms バージョン %2$s 以降では %1$s は<strong>非推奨</strong>です。"
+
+#: ninja-forms.php:1083
+msgid "%1$s is <strong>deprecated</strong> since Ninja Forms version %2$s! Use %3$s instead."
+msgstr "Ninja Forms バージョン %2$s 以降では %1$s は<strong>非推奨</strong>です。代わりに %3$s をお使いください。"
+
+#: includes/Fields/Unknown.php:66 includes/Fields/Unknown.php:75
+#: includes/Fields/Unknown.php:84
+msgid "Field type \"%s\" not found."
+msgstr "フィールドタイプ \"%s\" が見つかりません。"
+
+#: includes/Admin/Menus/SystemStatus.php:87
+#: includes/Admin/Menus/SystemStatus.php:94 includes/Fields/Unknown.php:28
+msgid "Unknown"
+msgstr "不明"
+
+#: includes/Actions/SuccessMessage.php:66
+msgid "Shortcodes should return and not echo, see: %s"
+msgstr "ショートコードは echo ではなく return すべきです。%sを参照してください。"
+
+#: includes/Templates/admin-menu-new-form.html.php:345
+msgid "Undo"
+msgstr "元に戻す"
+
+#: includes/Config/NewFormTemplates.php:32
+msgid "Allow user to register for your next event this easy to complete form. You can add and remove fields as needed."
+msgstr "この簡単入力フォームで、ユーザーが次回のイベントに登録できるようにしましょう。必要に応じてフィールドの追加や削除が可能です。"
+
+#: includes/Config/NewFormTemplates.php:31
+msgid "Event Registration"
+msgstr "イベント登録"
+
+#: includes/Config/NewFormTemplates.php:26
+msgid "Manage quote requests from your website easily with this template. You can add and remove fields as needed."
+msgstr "このテンプレートを使えばサイトからの見積りリクエストを簡単に管理できます。必要に応じてフィールドの追加や削除が可能です。"
+
+#: includes/Config/NewFormTemplates.php:19
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: includes/Config/i18nBuilder.php:11
+msgid "Available"
+msgstr "利用可能"
+
+#: includes/Admin/Menus/ImportExport.php:83
+msgid "Invalid Form Upload."
+msgstr "無効なフォームのアップロード。"
+
+#: includes/Admin/Menus/ImportExport.php:82
+msgid "There uploaded file is not a valid format."
+msgstr "アップロードされたファイルは、有効なフォーマットではありません。"
+
+#: includes/Admin/Menus/Forms.php:272
+msgid "Form Template Import Error."
+msgstr "フォームテンプレートのインポートエラー。"
+
+#: lib/NF_VersionSwitcher.php:97
+msgid "DEBUG: Switch to 3.0.x"
+msgstr "デバッグ: 3.0.x に切り替える"
+
+#: lib/NF_VersionSwitcher.php:93
+msgid "DEBUG: Switch to 2.9.x"
+msgstr "デバッグ: 2.9.x に切り替える"
+
+#: lib/NF_VersionSwitcher.php:83
+msgid "Ninja Forms Dev"
+msgstr "Ninja Forms Dev"
+
+#: includes/Templates/ui-nf-header.html.php:8
+msgid "Preview Changes"
+msgstr "変更をプレビュー"
+
+#: includes/Config/i18nBuilder.php:13
+#: includes/Templates/ui-nf-header.html.php:5
+#: includes/Templates/ui-nf-menu-drawer.html.php:6
+msgid "Form Fields"
+msgstr "フォームフィールド"
+
+#: includes/Templates/ui-item-controls.html.php:4
+msgid "Editing field"
+msgstr "編集フィールド"
+
+#: includes/Templates/admin-notice-form-import.html.php:4
+msgid "View"
+msgstr "表示"
+
+#: includes/Templates/admin-metabox-submission-example.php:1
+msgid "Submission Data"
+msgstr "送信データ"
+
+#: includes/Templates/admin-metabox-sub-info.html.php:27
+msgid "Submitted by: "
+msgstr "送信者: "
+
+#: includes/Templates/admin-metabox-sub-info.html.php:23
+msgid "Submitted on: "
+msgstr "送信日 "
+
+#: includes/Templates/admin-metabox-sub-info.html.php:19
+msgid "Updated on: "
+msgstr "更新日: "
+
+#: includes/Templates/admin-menu-system-status.html.php:9
+msgid "Our Scope of Support"
+msgstr "サポートの対応範囲"
+
+#: includes/Templates/admin-menu-system-status.html.php:8
+msgid "What to try before contacting support"
+msgstr "サポートへのお問合わせの前にお試しいただきたいこと"
+
+#: includes/Templates/admin-menu-system-status.html.php:4
+msgid "Before requesting help from our support team please review:"
+msgstr "サポートチームにヘルプをリクエストする前に、次を確認してください。"
+
+#: includes/Templates/admin-menu-new-form.html.php:975
+msgid " Open in new window"
+msgstr " 新しいウィンドウで開く"
+
+#: includes/Templates/admin-menu-new-form.html.php:484
+msgid "Not Yet"
+msgstr "まだしない"
+
+#: includes/Templates/admin-menu-new-form.html.php:476
+msgid "Almost there..."
+msgstr "もうすぐ完了します..."
+
+#: includes/Templates/admin-menu-new-form.html.php:462
+msgid " Undo All"
+msgstr " すべて取り消す"
+
+#: includes/Templates/admin-menu-new-form.html.php:462
+msgid "Undo All"
+msgstr "すべて元に戻す"
+
+#: includes/Templates/admin-menu-new-form.html.php:449
+#: includes/Templates/admin-menu-new-form.html.php:455
+#: includes/Templates/admin-menu-new-form.html.php:464
+#: includes/Templates/admin-menu-new-form.html.php:470
+msgid "Done"
+msgstr "完了"
+
+#: includes/Templates/admin-menu-new-form.html.php:293
+#: includes/Templates/ui-nf-toggle-drawer.html.php:2
+msgid "Half screen"
+msgstr "ハーフスクリーン"
+
+#: includes/Templates/admin-menu-new-form.html.php:293
+#: includes/Templates/ui-nf-toggle-drawer.html.php:2
+msgid "Full screen"
+msgstr "フルスクリーン"
+
+#: includes/Templates/admin-menu-new-form.html.php:292
+msgid "Toggle Drawer"
+msgstr "切り替えドロワー"
+
+#: includes/Templates/admin-menu-new-form.html.php:247
+msgid "Delete (^ + D + click)"
+msgstr "削除 (^ + D + クリック)"
+
+#: includes/Templates/admin-menu-new-form.html.php:246
+msgid "Duplicate (^ + C + click)"
+msgstr "複製 (^ + C + クリック)"
+
+#: includes/Templates/admin-menu-new-form.html.php:212
+msgid "Get started by adding your first form field. Just click the plus and select the actions you want. It's that easy."
+msgstr "フォームフィールドの追加から始めましょう。プラス記号をクリックして、希望するアクションを選択するだけです。とても簡単です。"
+
+#: includes/Templates/admin-menu-new-form.html.php:211
+msgid "Add form actions"
+msgstr "フォームアクションを追加"
+
+#: includes/Config/NewFormTemplates.php:25
+msgid "Quote Request"
+msgstr "見積りリクエスト"
+
+#: includes/Config/NewFormTemplates.php:20
+msgid "Allow your users to contact you with this simple contact form. You can add and remove fields as needed."
+msgstr "このシンプルなお問い合わせフォームで、ユーザーが連絡できるようにしましょう。必要に応じてフィールドの追加や削除が可能です。"
+
+#: includes/Templates/ui-nf-header.html.php:18
+msgid "Contact Form"
+msgstr "お問い合わせフォーム"
+
+#: includes/Templates/admin-menu-new-form.html.php:198
+msgid "Get started by adding your first form field."
+msgstr "フォームフィールドの追加から始めましょう。"
+
+#: includes/Templates/admin-menu-new-form.html.php:197
+msgid "Add form fields"
+msgstr "フォームフィールドを追加"
+
+#: includes/Templates/admin-menu-new-form.html.php:169
+msgid "View Changes"
+msgstr "変更を表示"
+
+#: includes/Templates/admin-menu-new-form.html.php:157
+msgid "Loading"
+msgstr "読み込み中"
+
+#: includes/Templates/admin-menu-new-form.html.php:153
+msgid "PUBLISH"
+msgstr "公開"
+
+#: includes/Templates/admin-menu-new-form.html.php:153
+#: includes/Templates/admin-menu-new-form.html.php:280
+#: includes/Templates/admin-menu-new-form.html.php:486
+#: includes/Templates/ui-nf-menu-drawer.html.php:3
+msgid "Publish"
+msgstr "公開"
+
+#: includes/Templates/admin-menu-new-form.html.php:149
+msgid "Expand Menu"
+msgstr "メニューを展開"
+
+#: includes/Templates/admin-menu-new-form.html.php:125
+#: includes/Templates/admin-menu-new-form.html.php:127
+msgid "Add new action"
+msgstr "新規アクションを追加"
+
+#: includes/Templates/admin-menu-new-form.html.php:118
+#: includes/Templates/admin-menu-new-form.html.php:120
+#: includes/Templates/ui-nf-header.html.php:17
+msgid "Add new field"
+msgstr "新規フィールドを追加"
+
+#: includes/Templates/admin-menu-forms.html.php:70
+#: includes/Templates/admin-menu-forms.html.php:98
+#: includes/Templates/admin-menu-forms.html.php:126
+#: includes/Templates/admin-menu-forms.html.php:154
+#: includes/Templates/admin-menu-forms.html.php:182
+msgid "Mult-Select"
+msgstr "複数選択肢"
+
+#: includes/Templates/admin-menu-forms.html.php:55
+#: includes/Templates/admin-menu-forms.html.php:83
+#: includes/Templates/admin-menu-forms.html.php:111
+#: includes/Templates/admin-menu-forms.html.php:139
+#: includes/Templates/admin-menu-forms.html.php:167
+msgid "Basic Fields"
+msgstr "基本フィールド"
+
+#: includes/Templates/admin-menu-forms.html.php:35
+msgid "Class Name"
+msgstr "クラス名"
+
+#: includes/Templates/admin-menu-forms.html.php:31
+msgid "Hide Label"
+msgstr "ラベルを非表示"
+
+#: includes/Templates/admin-menu-forms.html.php:30
+msgid "Right of Field"
+msgstr "フィールドの右"
+
+#: includes/Templates/admin-menu-forms.html.php:29
+msgid "Left of Field"
+msgstr "フィールドの左"
+
+#: includes/Templates/admin-menu-forms.html.php:28
+msgid "Below Field"
+msgstr "フィールドの下"
+
+#: includes/Templates/admin-menu-forms.html.php:27
+msgid "Above Field"
+msgstr "フィールドの上"
+
+#: includes/Templates/admin-menu-forms.html.php:21
+msgid "Label Name"
+msgstr "ラベル名"
+
+#: includes/Templates/admin-menu-forms.html.php:17
+msgid "Editing Field"
+msgstr "フィールドを編集中"
+
+#: includes/Templates/admin-menu-addons.html.php:7
+msgid " installed. The current version is "
+msgstr " はインストール済みです。現在のバージョン: "
+
+#: includes/Templates/admin-menu-addons.html.php:7
+msgid " requires an update. You have version "
+msgstr " は更新が必要です。現在のバージョン: "
+
+#: includes/Fields/PasswordConfirm.php:26
+msgid "password"
+msgstr "パスワード"
+
+#: includes/Fields/Date.php:56
+msgid "l, F d Y"
+msgstr "l, F d Y"
+
+#: includes/Fields/Date.php:54
+msgid "Y/m/d"
+msgstr "Y年n月j日"
+
+#: includes/Fields/Date.php:53
+msgid "Y-m-d"
+msgstr "Y-m-d"
+
+#: includes/Fields/Date.php:48
+msgid "m-d-Y"
+msgstr "m-d-Y"
+
+#: includes/Fields/Date.php:51
+msgid "d-m-Y"
+msgstr "d-m-Y"
+
+#: includes/Display/Shortcodes.php:44
+msgid "Ninja Forms shortcode used without specifying a form."
+msgstr "フォームを特定することなく Ninja Forms ショートコードが使用されました。"
+
+#: includes/Admin/Processes/ImportForm.php:603
+#: includes/Database/Models/Form.php:667
+msgid "Save Form"
+msgstr "フォームを保存"
+
+#: includes/Database/MockData.php:1158
+msgid "Calculations are returned with the AJAX response ( response -> data -> calcs"
+msgstr "計算は AJAX レスポンスで返されます (応答 \t データ \t 計算"
+
+#: includes/Database/MockData.php:1140
+msgid "My Second Calculation"
+msgstr "2回目の計算"
+
+#: includes/Database/MockData.php:1136
+msgid "My First Calculation"
+msgstr "1回目の計算"
+
+#: includes/Database/MockData.php:1132
+msgid "Form with Calculations"
+msgstr "計算機付きフォーム"
+
+#: includes/Database/MockData.php:1074
+msgid "Quantity for Product B"
+msgstr "商品 B の数量"
+
+#: includes/Database/MockData.php:1062
+msgid "Product B"
+msgstr "商品 B"
+
+#: includes/Database/MockData.php:1047
+msgid "Quantity for Product A"
+msgstr "商品 A の数量"
+
+#: includes/Database/MockData.php:1035
+msgid "Product A"
+msgstr "商品 A"
+
+#: includes/Database/MockData.php:1025
+msgid "Product Form (Multiple Products)"
+msgstr "商品フォーム (複数商品)"
+
+#: includes/Database/MockData.php:964
+msgid "Product Form (Inline Quantity)"
+msgstr "商品フォーム (数量埋め込み)"
+
+#: includes/Database/MockData.php:955 includes/Database/MockData.php:1016
+#: includes/Database/MockData.php:1119
+msgid "You purchased "
+msgstr "購入内容:"
+
+#: includes/Database/MockData.php:943 includes/Database/MockData.php:1004
+#: includes/Database/MockData.php:1107 includes/Database/MockData.php:1150
+msgid "Purchase"
+msgstr "購入"
+
+#: includes/Database/MockData.php:888
+msgid "Product Form (with Quantity Field)"
+msgstr "商品フォーム (数量フィールド付き)"
+
+#: includes/Database/MockData.php:876
+msgid "Subscribe"
+msgstr "購読"
+
+#: includes/Database/MockData.php:867
+msgid "Enter your email address"
+msgstr "メールアドレスを入力"
+
+#: includes/Database/MockData.php:863
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: includes/Database/MockData.php:851
+msgid "Email Subscription Form"
+msgstr "メール購読フォーム"
+
+#: includes/Database/MockData.php:835
+msgid "Field #"
+msgstr "フィールド番号"
+
+#: includes/Database/MockData.php:822
+#: includes/Templates/admin-menu-new-form.html.php:495
+msgid " Fields"
+msgstr " フィールド"
+
+#: includes/Database/MockData.php:822
+msgid "Long Form - "
+msgstr "ロングフォーム - "
+
+#: includes/Database/MockData.php:805
+msgid "processing"
+msgstr "処理中"
+
+#: includes/Database/MockData.php:776
+msgid "answer"
+msgstr "回答"
+
+#: includes/Database/MockData.php:774
+msgid "Anti-Spam Question (Answer = answer)"
+msgstr "スパム防止の質問 (回答 = answer)"
+
+#: includes/Database/MockData.php:764
+msgid "These are various special fields."
+msgstr "これらは各種特殊フィールドです。"
+
+#: includes/Database/MockData.php:755
+msgid "Credit Card Zip Code"
+msgstr "クレジットカード ZIP コード"
+
+#: includes/Database/MockData.php:745
+msgid "Credit Card CVV"
+msgstr "クレジットカード確認コード (CVV)"
+
+#: includes/Database/MockData.php:708
+msgid "Product (seperate quantity)"
+msgstr "商品 (数量は別)"
+
+#: includes/Database/MockData.php:701
+msgid "Product (quanitity included)"
+msgstr "商品 (数量を含む)"
+
+#: includes/Database/MockData.php:697
+msgid "These are all the fields in the Pricing section."
+msgstr "これらは価格セクションのすべてのフィールドです。"
+
+#: includes/Database/MockData.php:688
+msgid "Zip Code"
+msgstr "郵便番号"
+
+#: includes/Database/MockData.php:649
+msgid "These are all the fields in the User Information section."
+msgstr "これらはユーザー情報セクションのすべてのフィールドです。"
+
+#: includes/Database/MockData.php:501
+msgid "Bathroom Sink"
+msgstr "バスルームシンク"
+
+#: includes/Database/MockData.php:404 includes/Database/MockData.php:432
+#: includes/Database/MockData.php:553 includes/Database/MockData.php:581
+#: includes/Database/MockData.php:609
+msgid "Option Three"
+msgstr "オプション3"
+
+#: includes/Database/MockData.php:397 includes/Database/MockData.php:425
+#: includes/Database/MockData.php:546 includes/Database/MockData.php:574
+#: includes/Database/MockData.php:602
+msgid "Option Two"
+msgstr "オプション2"
+
+#: includes/Database/MockData.php:390 includes/Database/MockData.php:418
+#: includes/Database/MockData.php:539 includes/Database/MockData.php:567
+#: includes/Database/MockData.php:595
+msgid "Option One"
+msgstr "オプション1"
+
+#: includes/Database/MockData.php:387 includes/Database/MockData.php:536
+msgid "Select List"
+msgstr "選択リスト"
+
+#: includes/Database/MockData.php:343
+msgid "Kitchen Sink"
+msgstr "キッチンシンク"
+
+#: includes/Database/MockData.php:315
+msgid "Send"
+msgstr "送信"
+
+#: includes/Database/MockData.php:301
+msgid "Snail Mail"
+msgstr "郵便"
+
+#: includes/Database/MockData.php:283
+msgid "Best Contact Method?"
+msgstr "ご希望の連絡方法"
+
+#: includes/Database/MockData.php:276
+msgid "Agree?"
+msgstr "同意しますか ?"
+
+#: includes/Database/MockData.php:269
+msgid "What Can We Help You With?"
+msgstr "どんなヘルプをご希望ですか ?"
+
+#: includes/Database/MockData.php:229
+msgid "This is another test."
+msgstr "これは別のテストです。"
+
+#: includes/Database/MockData.php:228
+msgid "user@gmail.com"
+msgstr "user@gmail.com"
+
+#: includes/Database/MockData.php:227 includes/Database/MockData.php:231
+msgid "John Doe"
+msgstr "John Doe"
+
+#: includes/Database/MockData.php:218
+msgid "This is a test"
+msgstr "これはテストです"
+
+#: includes/Database/MockData.php:217
+msgid "foo@wpninjas.com"
+msgstr "foo@wpninjas.com"
+
+#: includes/Database/MockData.php:216 includes/Database/MockData.php:220
+msgid "Foo Bar"
+msgstr "Foo Bar"
+
+#: includes/Database/MockData.php:206 includes/Database/MockData.php:332
+#: includes/Database/MockData.php:490 includes/Database/MockData.php:810
+msgid "Mock Save Action"
+msgstr "モック保存アクション"
+
+#: includes/Database/MockData.php:194
+msgid "Hello, Ninja Forms!"
+msgstr "こんにちは、Ninja Forms !"
+
+#: includes/Database/MockData.php:193
+msgid "This is an email action."
+msgstr "これはメールアクションです。"
+
+#: includes/Database/MockData.php:190
+msgid "Mock Email Action"
+msgstr "モックメールアクション"
+
+#: includes/Database/MockData.php:178
+msgid "Thank you {field:name} for filling out my form!"
+msgstr "{field:name} さん、フォームのご記入ありがとうございました。"
+
+#: includes/Database/MockData.php:176
+msgid "Mock Success Message Action"
+msgstr "モック成功メッセージアクション"
+
+#: includes/Database/MockData.php:42
+msgid "Blank Forms"
+msgstr "空のフォーム"
+
+#: includes/Database/MockData.php:28
+msgid "Baz"
+msgstr "Baz"
+
+#: includes/Database/MockData.php:21
+msgid "Bar"
+msgstr "バー"
+
+#: includes/Database/MockData.php:14
+msgid "Foo"
+msgstr "Foo"
+
+#: includes/Config/i18nFrontEnd.php:24
+msgid "FILE UPLOAD"
+msgstr "ファイルのアップロード"
+
+#: includes/Config/i18nFrontEnd.php:23
+msgid "File Upload in Progress."
+msgstr "ファイルのアップロード中です。"
+
+#: includes/Config/FormDisplaySettings.php:254
+#: includes/Config/i18nFrontEnd.php:22
+msgid "Honeypot Error"
+msgstr "Honeypot エラー"
+
+#: includes/Config/FormDisplaySettings.php:242
+#: includes/Config/i18nFrontEnd.php:19
+msgid "Please correct errors before submitting this form."
+msgstr "このフォームを送信する前にエラーを修正してください。"
+
+#: includes/Config/i18nFrontEnd.php:17
+msgid "Insert Media"
+msgstr "メディアを挿入"
+
+#: includes/Config/i18nFrontEnd.php:16
+msgid "Insert Link"
+msgstr "リンクを挿入"
+
+#: includes/Config/FormDisplaySettings.php:236
+#: includes/Config/i18nFrontEnd.php:15
+msgid "Please increment by "
+msgstr "以下の数ずつ増加してください。 "
+
+#: includes/Config/FormDisplaySettings.php:230
+#: includes/Config/i18nFrontEnd.php:14
+msgid "Number Max Error"
+msgstr "最高文字数エラー"
+
+#: includes/Config/FormDisplaySettings.php:224
+#: includes/Config/i18nFrontEnd.php:13
+msgid "Number Min Error"
+msgstr "最低分数エラー"
+
+#: includes/Config/FormDisplaySettings.php:218
+#: includes/Config/i18nFrontEnd.php:12
+msgid "These fields must match!"
+msgstr "フィールドが一致しません。"
+
+#: includes/Config/FormDisplaySettings.php:206
+#: includes/Config/i18nFrontEnd.php:10
+msgid "Please enter a valid email address!"
+msgstr "有効なメールアドレスを入力してください。"
+
+#: includes/Config/i18nBuilder.php:10 includes/Config/i18nFrontEnd.php:20
+msgid "If you are a human seeing this field, please leave it empty."
+msgstr "あなたがボットではないにも関わらずこのフィールドが表示されている場合は、空欄にしておいてください。"
+
+#: includes/Config/i18nBuilder.php:9
+msgid "Open in new window"
+msgstr "新しいウィンドウで開きます"
+
+#: includes/Config/i18nBuilder.php:8
+#: includes/Templates/admin-menu-new-form.html.php:384
+msgid "Add"
+msgstr "追加"
+
+#: includes/Config/i18nBuilder.php:7
+msgid "Quantity:"
+msgstr "数:"
+
+#: includes/Config/i18nBuilder.php:6
+msgid "Price:"
+msgstr "価格:"
+
+#: includes/Fields/Date.php:47 includes/Fields/Date.php:50
+msgid "m/d/Y"
+msgstr "m/d/Y"
+
+#: includes/Config/ActionEmailSettings.php:51
+msgid "Ninja Forms Submission"
+msgstr "Ninja Forms 送信データ"
+
+#: includes/Config/ActionSuccessMessageSettings.php:16
+#: includes/Config/FormActionDefaults.php:9
+msgid "Your form has been successfully submitted."
+msgstr "フォームを送信しました。"
+
+#: includes/Config/FieldSettings.php:637
+msgid "Friday, November 18, 2019"
+msgstr "2019年11月18日金曜日"
+
+#: includes/Config/FieldSettings.php:629
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+#: includes/Config/FieldSettings.php:625
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+#: includes/Config/FieldSettings.php:617
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+#: includes/Config/FieldSettings.php:613
+msgid "MM/DD/YYYY"
+msgstr "MM/DD/YYYY"
+
+#: includes/Config/FieldSettings.php:605
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+#: includes/Config/FieldSettings.php:601
+msgid "DD/MM/YYYY"
+msgstr "DD/MM/YYYY"
+
+#: includes/Config/FieldSettings.php:253
+msgid "three"
+msgstr "3"
+
+#: includes/Config/FieldSettings.php:253 includes/Config/FieldSettings.php:1192
+#: includes/Database/MockData.php:141
+msgid "Three"
+msgstr "3"
+
+#: includes/Config/FieldSettings.php:252
+msgid "two"
+msgstr "2"
+
+#: includes/Config/FieldSettings.php:252 includes/Config/FieldSettings.php:1191
+#: includes/Database/MockData.php:134
+msgid "Two"
+msgstr "2"
+
+#: includes/Config/FieldSettings.php:251
+msgid "one"
+msgstr "1"
+
+#: includes/Config/FieldSettings.php:251 includes/Config/FieldSettings.php:1190
+#: includes/Database/MockData.php:127
+msgid "One"
+msgstr "1"
+
+#: includes/Admin/Menus/MockData.php:34
+msgid "View Forms"
+msgstr "フォームを表示"
+
+#: includes/Admin/Menus/MockData.php:33
+msgid "Migrations and Mock Data complete. "
+msgstr "移行とモックデータが完成しました。"
+
+#: includes/Admin/AllFormsTable.php:238 includes/Admin/AllFormsTable.php:254
+#: includes/Admin/AllFormsTable.php:273
+msgid "Go get a life, script kiddies"
+msgstr "幼稚なクラッカーの皆さんは他に行ってください。"
+
+#: includes/Templates/admin-menu-dashboard.html.php:182
+msgid "Date Created"
+msgstr "作成日"
+
+#: includes/AJAX/Controllers/SavedFields.php:27
+#: includes/AJAX/Controllers/SavedFields.php:54
+#: includes/AJAX/Controllers/SavedFields.php:72
+msgid "Field Not Found"
+msgstr "フィールドが見つかりません"
+
+#: includes/AJAX/Controllers/Form.php:35
+msgid "Form Not Found"
+msgstr "フォームが見つかりません"
+
+#: includes/Config/MergeTagsForm.php:40
+msgid "Sub Sequence"
+msgstr "サブシーケンス"
+
+#: includes/Admin/CPT/DownloadAllSubmissions.php:48
+msgid "Invalid form id"
+msgstr "無効なフォーム ID"
+
+#: includes/Admin/Processes/ImportForm.php:877
+#: includes/Config/FieldSettings.php:999 includes/Database/Models/Form.php:936
+#: includes/Fields/Confirm.php:26
+msgid "Confirm"
+msgstr "確認"
+
+#: includes/Fields/Terms.php:110
+msgid "No taxonomy selected."
+msgstr "タクソノミーが未選択です。"
+
+#: includes/Config/PluginSettingsAdvanced.php:87
+msgid "Opinionated Styles"
+msgstr "独自スタイル"
+
+#: includes/Config/FormDisplaySettings.php:104
+msgid "Default Label Position"
+msgstr "デフォルトのラベル位置"
+
+#: includes/Config/FieldSettings.php:1293
+msgid "Add New Terms"
+msgstr "新規項目を追加"
+
+#: includes/Config/FieldSettings.php:499
+msgid "Container"
+msgstr "コンテナ"
+
+#: includes/AJAX/Controllers/Submission.php:116
+msgid "Preview does not exist."
+msgstr "プレビューは存在しません。"
+
+#: lib/NF_VersionSwitcher.php:27 lib/NF_VersionSwitcher.php:43
+msgid "Permission Denied"
+msgstr "アクセスが拒否されました"
+
+#: lib/NF_VersionSwitcher.php:26 lib/NF_VersionSwitcher.php:42
+msgid "You do not have permission."
+msgstr "アクセス権がありません。"
+
+#: lib/NF_AddonChecker.php:43
+msgid "%s was deactivated."
+msgstr "%sは無効化されました。"
+
+#: lib/NF_AddonChecker.php:42
+msgid "Oops! That addon is not yet compatible with Ninja Forms THREE. %sLearn More%s."
+msgstr "そのアドオンはまだ Ninja Forms THREE に対応していません。%s詳細はこちら%s。"
+
+#: includes/Fields/Terms.php:95
+msgid "No available terms for this taxonomy. %sAdd a term%s"
+msgstr "このタクソノミーの項目がありません。%s項目を追加%s"
+
+#: includes/Fields/Note.php:45
+msgid "Note text can be edited in the note field's advanced settings below."
+msgstr "メモテキストは下記のメモフィールドの高度な設定で編集できます。"
+
+#: includes/Fields/Terms.php:119
+msgid "Available Terms"
+msgstr "利用可能な項目"
+
+#: includes/Fields/Terms.php:31
+msgid "Terms List"
+msgstr "項目一覧"
+
+#: includes/Config/FieldSettings.php:1275
+msgid "Taxonomy"
+msgstr "タクソノミー"
+
+#: includes/Fields/hr.php:28
+msgid "Divider"
+msgstr "区切り"
+
+#: includes/Fields/Textbox.php:34
+msgid "Single Line Text"
+msgstr "一行テキスト"
+
+#: includes/Fields/Textarea.php:26
+msgid "Paragraph Text"
+msgstr "段落テキスト"
+
+#: includes/Fields/Checkbox.php:34
+msgid "Single Checkbox"
+msgstr "個別チェックボックス"
+
+#: ninja-forms.php:939
+msgid "Notice: JavaScript is required for this content."
+msgstr "注: このコンテンツには JavaScript が必要です。"
+
+#: includes/Templates/admin-menu-new-form.html.php:257
+msgid "Actions"
+msgstr "操作"
+
+#: includes/Admin/Menus/Settings.php:189 includes/Admin/Menus/Settings.php:215
+msgid "Are you sure you want to downgrade?"
+msgstr "本当にダウングレードしてよいですか ?"
+
+#: includes/Admin/AllFormsTable.php:100
+msgid "title"
+msgstr "タイトル"
+
+#: includes/Database/MockData.php:54
+msgid "Contact Me"
+msgstr "お問い合わせください"
+
+#: includes/Fields/Zip.php:25
+msgid "Zip"
+msgstr "郵便番号"
+
+#: includes/Database/MockData.php:730 includes/Database/MockData.php:934
+#: includes/Database/MockData.php:995 includes/Database/MockData.php:1098
+#: includes/Fields/Total.php:28
+msgid "Total"
+msgstr "合計"
+
+#: includes/Fields/Spam.php:57
+msgid "Incorrect Answer"
+msgstr "間違った答え"
+
+#: includes/Fields/Spam.php:28
+msgid "Question Position"
+msgstr "質問の位置"
+
+#: includes/Fields/Spam.php:27
+msgid "Question"
+msgstr "質問"
+
+#: includes/Fields/Shipping.php:41
+msgid "Advanced Shipping"
+msgstr "配送オプションの高度な設定"
+
+#: includes/Fields/Recaptcha.php:61
+msgid "Please complete the recaptcha"
+msgstr "reCAPTCHA を完成させてください"
+
+#: includes/Fields/Recaptcha.php:26
+msgid "Recaptcha"
+msgstr "reCAPTCHA"
+
+#: includes/Database/MockData.php:715 includes/Database/MockData.php:910
+#: includes/Fields/Quantity.php:30
+msgid "Quantity"
+msgstr "数量"
+
+#: includes/Database/MockData.php:287 includes/Database/MockData.php:668
+#: includes/Fields/Phone.php:24
+msgid "Phone"
+msgstr "電話"
+
+#: includes/Fields/PasswordConfirm.php:24
+msgid "Password Confirm"
+msgstr "パスワード確認"
+
+#: includes/Fields/Note.php:47
+msgid "Note"
+msgstr "メモ"
+
+#: includes/Fields/ListSelect.php:26
+msgid "Select"
+msgstr "選択"
+
+#: includes/Database/MockData.php:415 includes/Database/MockData.php:564
+#: includes/Fields/ListRadio.php:24
+#: includes/Templates/admin-menu-forms.html.php:73
+#: includes/Templates/admin-menu-forms.html.php:101
+#: includes/Templates/admin-menu-forms.html.php:129
+#: includes/Templates/admin-menu-forms.html.php:157
+#: includes/Templates/admin-menu-forms.html.php:185
+msgid "Radio List"
+msgstr "ラジオボタンリスト"
+
+#: includes/Database/MockData.php:592 includes/Fields/ListCheckbox.php:26
+msgid "Checkbox List"
+msgstr "チェックボックスリスト"
+
+#: includes/Admin/Processes/ImportForm.php:901
+#: includes/Database/Models/Form.php:960 includes/Fields/CreditCardZip.php:23
+msgid "Credit Card Zip"
+msgstr "クレジットカード郵便番号"
+
+#: includes/Database/MockData.php:740 includes/Fields/CreditCardNumber.php:25
+msgid "Credit Card Number"
+msgstr "クレジットカード番号"
+
+#: includes/Database/MockData.php:735 includes/Fields/CreditCardFullName.php:25
+msgid "Credit Card Full Name"
+msgstr "クレジットカード名義人氏名"
+
+#: includes/Database/MockData.php:750
+#: includes/Fields/CreditCardExpiration.php:26
+msgid "Credit Card Expiration"
+msgstr "クレジットカード有効期限"
+
+#: includes/Fields/CreditCardCVC.php:25
+msgid "Credit Card CVC"
+msgstr "クレジットカード確認コード (CVC)"
+
+#: includes/Database/MockData.php:678 includes/Fields/City.php:25
+msgid "City"
+msgstr "市区町村"
+
+#: includes/Fields/Checkbox.php:156 includes/Fields/Checkbox.php:181
+msgid "unchecked"
+msgstr "unchecked"
+
+#: includes/Fields/Checkbox.php:155 includes/Fields/Checkbox.php:179
+msgid "checked"
+msgstr "checked"
+
+#: includes/Fields/Button.php:26
+#: includes/Templates/admin-menu-forms.html.php:79
+#: includes/Templates/admin-menu-forms.html.php:107
+#: includes/Templates/admin-menu-forms.html.php:135
+#: includes/Templates/admin-menu-forms.html.php:163
+#: includes/Templates/admin-menu-forms.html.php:191
+msgid "Button"
+msgstr "ボタン"
+
+#: includes/Fields/Address2.php:23
+msgid "Address 2"
+msgstr "住所2"
+
+#: includes/Database/MockData.php:673 includes/Fields/Address.php:25
+msgid "Address"
+msgstr "住所"
+
+#: includes/Display/Shortcodes.php:37
+msgid "Notice: Ninja Forms shortcode used without specifying a form."
+msgstr "通知: フォームを特定することなく Ninja Forms ショートコードが使用されました。"
+
+#: includes/Display/Render.php:153 includes/Display/Render.php:466
+msgid "No Fields Found."
+msgstr "フィールドが見つかりません。"
+
+#: includes/Display/Preview.php:49
+msgid "You must be logged in to preview a form."
+msgstr "フォームをプレビューするにはログインしてください。"
+
+#: includes/Admin/Metaboxes/AppendAForm.php:11
+msgid "Append a Ninja Form"
+msgstr "Ninja Form を追加"
+
+#: includes/Admin/Menus/SystemStatus.php:201
+msgid "smtp_port"
+msgstr "smtp_port"
+
+#: includes/Admin/Menus/SystemStatus.php:199
+msgid "Host Name"
+msgstr "ホスト名"
+
+#: includes/Admin/Menus/SystemStatus.php:198
+msgid "Server IP Address"
+msgstr "サーバー IP アドレス"
+
+#: includes/Admin/Menus/Settings.php:110
+msgid "Save Settings"
+msgstr "設定を保存"
+
+#: includes/Admin/Menus/Licenses.php:46
+msgid "Add-On Licenses"
+msgstr "アドオンライセンス"
+
+#: includes/Admin/Menus/ImportExport.php:459
+msgid "File Upload Error"
+msgstr "ファイルのアップロードエラー"
+
+#: includes/Admin/Menus/ImportExport.php:454
+msgid "Unknown upload error."
+msgstr "不明なアップロードエラー。"
+
+#: includes/Admin/Menus/ImportExport.php:451
+msgid "File upload stopped by extension."
+msgstr "拡張モジュールによってファイルアップロードが停止しました。"
+
+#: includes/Admin/Menus/ImportExport.php:448
+msgid "Failed to write file to disk."
+msgstr "ディスクへのファイルの書き込みに失敗しました。"
+
+#: includes/Admin/Menus/ImportExport.php:445
+msgid "Missing a temporary folder."
+msgstr "一時フォルダーが見つかりません。"
+
+#: includes/Admin/Menus/ImportExport.php:442
+msgid "No file was uploaded."
+msgstr "ファイルをアップロードできませんでした。"
+
+#: includes/Admin/Menus/ImportExport.php:439
+msgid "The uploaded file was only partially uploaded."
+msgstr "ファイルの一部分的のみしかアップロードできませんでした。"
+
+#: includes/Admin/Menus/ImportExport.php:436
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
+msgstr "アップロードしたファイルが HTML フォームで指定されている MAX_FILE_SIZE ディレクティブを超過しています。"
+
+#: includes/Admin/Menus/ImportExport.php:433
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr "アップロードしたファイルが php.ini の upload_max_filesize ディレクティブを超過しています。"
+
+#: includes/Admin/Menus/ImportExport.php:206
+msgid "Export Forms"
+msgstr "フォームをエクスポート"
+
+#: includes/Admin/Menus/ImportExport.php:199
+msgid "Import Forms"
+msgstr "フォームのインポート"
+
+#: includes/Admin/CPT/Submission.php:309
+msgid "Submission Info"
+msgstr "送信情報"
+
+#: includes/Admin/CPT/Submission.php:72
+msgid "Form Submissions"
+msgstr "フォーム送信"
+
+#: includes/Admin/CPT/Submission.php:71
+msgid "Submission"
+msgstr "送信データ"
+
+#: includes/Admin/CPT/Submission.php:68
+msgid "Not found in Trash"
+msgstr "ゴミ箱内に見つかりません"
+
+#: includes/Admin/CPT/Submission.php:66
+msgid "Search Item"
+msgstr "項目検索"
+
+#: includes/Admin/CPT/Submission.php:65
+msgid "View Item"
+msgstr "項目を表示"
+
+#: includes/Admin/CPT/Submission.php:64
+msgid "Update Item"
+msgstr "項目を更新"
+
+#: includes/Admin/CPT/Submission.php:63
+msgid "Edit Item"
+msgstr "項目を編集"
+
+#: includes/Admin/CPT/Submission.php:62
+msgid "New Item"
+msgstr "新規項目"
+
+#: includes/Admin/CPT/Submission.php:60
+msgid "Add New Item"
+msgstr "新規項目を追加"
+
+#: includes/Admin/CPT/Submission.php:59
+msgid "All Items"
+msgstr "すべての項目"
+
+#: includes/Admin/CPT/Submission.php:58
+msgid "Parent Item:"
+msgstr "親項目:"
+
+#: includes/Admin/CPT/Submission.php:55
+msgctxt "Post Type Singular Name"
+msgid "Submission"
+msgstr "送信データ"
+
+#: includes/Admin/CPT/Submission.php:54
+msgctxt "Post Type General Name"
+msgid "Submissions"
+msgstr "送信データ"
+
+#: includes/Admin/AllFormsTable.php:27
+msgid "No forms found."
+msgstr "フォームが見つかりませんでした。"
+
+#: includes/Templates/admin-wp-die.html.php:7
+msgid "Show More"
+msgstr "もっと"
+
+#: includes/Templates/admin-metabox-import-export-favorite-fields-import.html.php:17
+#: includes/Templates/admin-metabox-import-export-favorite-fields-import.html.php:20
+msgid "Import Fields"
+msgstr "フィールドをインポート"
+
+#: includes/Admin/Menus/SystemStatus.php:18 includes/Database/MockData.php:242
+#: includes/Templates/admin-menu-system-status.html.php:3
+msgid "Get Help"
+msgstr "ヘルプ"
+
+#: includes/Templates/admin-menu-subs-filter.html.php:2
+msgid "- Select a form"
+msgstr "- フォームを選択"
+
+#: includes/Templates/admin-menu-settings.html.php:25
+msgid "Fix it."
+msgstr "修正する"
+
+#: includes/Templates/admin-menu-settings-licenses.html.php:29
+msgid "De-activate"
+msgstr "無効化"
+
+#: includes/Admin/Menus/Dashboard.php:21
+msgid "Form Builder"
+msgstr "フォームビルダー"
+
+#: includes/MergeTags/System.php:13
+msgid "System"
+msgstr "システム"
+
+#: includes/Config/MergeTagsDeprecated.php:202
+#: includes/Config/MergeTagsOther.php:12
+msgid "Query String"
+msgstr "クエリー文字列"
+
+#: includes/Admin/Menus/ImportExport.php:315
+msgid "Auto-Total Fields"
+msgstr "自動合計フィールド"
+
+#: includes/Admin/Menus/ImportExport.php:312
+msgid "Operations and Fields (Advanced)"
+msgstr "演算とフィールド (高度な設定)"
+
+#: includes/Admin/Menus/ImportExport.php:309
+msgid "Equation (Advanced)"
+msgstr "数式 (高度な設定)"
+
+#: includes/AJAX/Controllers/FormEndpoints.php:69
+#: includes/Database/Models/Form.php:283
+msgid "copy"
+msgstr "コピー"
+
+#: includes/Config/SettingsGroups.php:36
+msgid "Administration"
+msgstr "管理"
+
+#: includes/Config/i18nBuilder.php:15 includes/Config/SettingsGroups.php:30
+msgid "Advanced"
+msgstr "高度な設定"
+
+#: includes/Config/SettingsGroups.php:14
+msgid "Rich Text Editor (RTE)"
+msgstr "リッチテキストエディター (RTE)"
+
+#: includes/Config/PluginSettingsReCaptcha.php:44
+msgid "reCAPTCHA Theme"
+msgstr "reCAPTCHA テーマ"
+
+#: includes/Config/PluginSettingsAdvanced.php:98
+#: includes/Config/PluginSettingsReCaptcha.php:42
+msgid "Dark"
+msgstr "ダークカラー"
+
+#: includes/Config/PluginSettingsAdvanced.php:94
+#: includes/Config/PluginSettingsReCaptcha.php:41
+msgid "Light"
+msgstr "ライト"
+
+#: includes/Config/PluginSettingsGroups.php:12
+msgid "reCaptcha Settings"
+msgstr "reCAPTCHA 設定"
+
+#: includes/Config/PluginSettingsAdvanced.php:117
+msgid "Downgrade to the most recent 2.9.x release."
+msgstr "最新リリースの 2.9.x にダウングレードする。"
+
+#: includes/Config/PluginSettingsAdvanced.php:102
+msgid "Use default Ninja Forms styling conventions."
+msgstr "デフォルトの Ninja Forms スタイルを使用する。"
+
+#: includes/Database/MockData.php:371 includes/Database/MockData.php:658
+#: includes/Fields/LastName.php:25
+msgid "Last Name"
+msgstr "姓"
+
+#: includes/Database/MockData.php:366 includes/Database/MockData.php:653
+#: includes/Fields/FirstName.php:25
+msgid "First Name"
+msgstr "名"
+
+#: includes/Config/MergeTagsDeprecated.php:79
+#: includes/Config/MergeTagsWP.php:92
+msgid "User ID"
+msgstr "ユーザー ID"
+
+#: includes/Config/MergeTagsDeprecated.php:196
+msgid "IP Address"
+msgstr "IP アドレス"
+
+#: includes/Config/MergeTagsDeprecated.php:40
+#: includes/Config/MergeTagsWP.php:40
+msgid "Post URL"
+msgstr "投稿の URL"
+
+#: includes/Config/MergeTagsDeprecated.php:27
+#: includes/Config/MergeTagsWP.php:27
+msgid "Post Title"
+msgstr "投稿タイトル"
+
+#: includes/Config/MergeTagsDeprecated.php:14
+#: includes/Config/MergeTagsWP.php:14 build/submissions.js:1
+msgid "Post ID"
+msgstr "投稿 ID"
+
+#: includes/Config/MergeTagsFieldsAJAX.php:30
+msgid "All Fields"
+msgstr "すべてのフィールド"
+
+#: includes/Admin/Metaboxes/Calculations.php:14
+#: includes/Admin/Metaboxes/CalculationsReact.php:55
+#: includes/Config/FormSettingsTypes.php:17 includes/MergeTags/Calcs.php:15
+msgid "Calculations"
+msgstr "計算"
+
+#: includes/Config/FormSettingsTypes.php:7
+msgid "Display Settings"
+msgstr "設定を表示"
+
+#: includes/Config/FormRestrictionSettings.php:108
+msgid "Does NOT apply to form preview."
+msgstr "フォームプレビューには適用されません。"
+
+#: includes/Config/FormRestrictionSettings.php:104
+msgid "Submission Limit"
+msgstr "送信制限"
+
+#: includes/Config/FormRestrictionSettings.php:71
+msgid "Does apply to form preview."
+msgstr "フォームプレビューには適用されません。"
+
+#: includes/Config/FormRestrictionSettings.php:55
+msgid "Logged In"
+msgstr "ログイン中"
+
+#: includes/Config/FormDisplaySettings.php:189
+msgid "We have noticed that you do not have a submit button on your form. We can add one for you automatically."
+msgstr "フォームにまだ送信ボタンがないようです。自動で追加できます。"
+
+#: includes/Config/FormDisplaySettings.php:185
+msgid "Add Submit Button"
+msgstr "送信ボタンを追加"
+
+#: includes/Config/FormDisplaySettings.php:175
+msgid "Programmatic name that can be used to reference this form."
+msgstr "このフォームを参照する際に使用するプログラム名。"
+
+#: includes/Config/FormDisplaySettings.php:171
+msgid "Form Key"
+msgstr "フォーム識別子"
+
+#: includes/Config/FormCalculationSettings.php:22
+msgid "Equation"
+msgstr "方程式"
+
+#: includes/Config/FormCalculationSettings.php:18
+msgid "Variable Name"
+msgstr "変数名"
+
+#: includes/Config/FieldTypeSections.php:62 includes/Database/MockData.php:763
+msgid "Miscellaneous Fields"
+msgstr "その他のフィールド"
+
+#: includes/Config/FieldTypeSections.php:50
+msgid "Layout Fields"
+msgstr "レイアウトフィールド"
+
+#: includes/Database/MockData.php:696
+msgid "Pricing Fields"
+msgstr "価格フィールド"
+
+#: includes/Config/FieldTypeSections.php:38 includes/Database/MockData.php:648
+msgid "User Information Fields"
+msgstr "ユーザー情報フィールド"
+
+#: includes/Config/FieldTypeSections.php:26
+msgid "Common Fields"
+msgstr "共通フィールド"
+
+#: includes/Config/FieldSettings.php:1311
+msgid "Used for marking a field for processing."
+msgstr "処理用にフィールドをマークするために使われます。"
+
+#: includes/Config/FieldSettings.php:1307
+msgid "This is a user's state."
+msgstr "これはユーザーの状態です。"
+
+#: includes/Config/FieldSettings.php:1259
+msgid "A case sensitive answer to help prevent spam submissions of your form."
+msgstr "フォームのスパム送信を防ぐため、大文字と小文字を区別する答え。"
+
+#: includes/Config/FieldSettings.php:1255
+msgid "Answer"
+msgstr "回答"
+
+#: includes/Config/FieldSettings.php:1238
+msgid "- Select a Product"
+msgstr "- 商品を選択"
+
+#: includes/Config/FieldSettings.php:1232 includes/Database/MockData.php:898
+#: includes/Database/MockData.php:974 includes/Fields/Product.php:32
+msgid "Product"
+msgstr "商品"
+
+#: includes/Config/FieldSettings.php:1223
+msgid "Cost Type"
+msgstr "コストの種類"
+
+#: includes/Config/FieldSettings.php:1219
+msgid "Cost Dropdown"
+msgstr "コストドロップダウン"
+
+#: includes/Config/FieldSettings.php:1215
+msgid "Single Cost"
+msgstr "個別コスト"
+
+#: includes/Config/FieldSettings.php:1186
+msgid "Cost Options"
+msgstr "コスト設定"
+
+#: includes/Config/FieldSettings.php:1170
+msgid "Cost"
+msgstr "コスト"
+
+#: includes/Config/FieldSettings.php:1155
+msgid "User Entry"
+msgstr "ユーザーエントリー"
+
+#: includes/Config/FieldSettings.php:1151
+msgid "Multi Product - Choose One"
+msgstr "複数の商品 - 1つ選択"
+
+#: includes/Config/FieldSettings.php:1147
+msgid "Multi Product - Choose Many"
+msgstr "複数の商品 - 複数選択"
+
+#: includes/Config/FieldSettings.php:1143
+msgid "Multi Product - Dropdown"
+msgstr "複数の商品 - ドロップダウン"
+
+#: includes/Config/FieldSettings.php:1139
+msgid "Single Product (default)"
+msgstr "個別商品 (デフォルト)"
+
+#: includes/Config/FieldSettings.php:1134
+msgid "Product Type"
+msgstr "商品タイプ"
+
+#: includes/Config/FieldSettings.php:1127
+msgid "Allows users to choose more than one of this product."
+msgstr "ユーザーがこの商品を複数選択できるようにします。"
+
+#: includes/Config/FieldSettings.php:1110
+msgid "Price"
+msgstr "金額"
+
+#: includes/Config/FieldSettings.php:1097
+msgid "- Select a Variable"
+msgstr "- 変数を選択"
+
+#: includes/Config/FieldSettings.php:1091
+msgid "Display This Calculation Variable"
+msgstr "この計算変数を表示"
+
+#: includes/Config/FieldSettings.php:1080
+msgid "This number will be used in calculations if the box is unchecked."
+msgstr "欄にチェックがない場合、この数字を計算に使用します。"
+
+#: includes/Config/FieldSettings.php:1077
+msgid "Unchecked Calculation Value"
+msgstr "未チェックの計算値"
+
+#: includes/Config/FieldSettings.php:1071
+msgid "This number will be used in calculations if the box is checked."
+msgstr "欄にチェックがある場合、この数字を計算に使用します。"
+
+#: includes/Config/FieldSettings.php:1068
+msgid "Checked Calculation Value"
+msgstr "チェック済みの計算値"
+
+#: includes/Config/FieldSettings.php:1053
+msgid "Processing Label"
+msgstr "処理状況ラベル"
+
+#: includes/Config/FieldSettings.php:1017
+msgid "Allows rich text input."
+msgstr "リッチテキスト入力を許可します。"
+
+#: includes/Config/FieldSettings.php:902
+msgid ""
+"Use this as a registration password field. If this box is check, both\n"
+"                        password and re-password textboxes will be output"
+msgstr ""
+"登録パスワードフィールドとしてこれを使用します。 この欄がオンの場合、\n"
+"                        パスワードと再入力パスワードの両方のテキストボックスを出力します"
+
+#: includes/Config/FieldSettings.php:885
+msgid "Number of seconds for the countdown"
+msgstr "カウントダウン用の秒数"
+
+#: includes/Config/FieldSettings.php:807
+msgid "This column in the submissions table will sort by number."
+msgstr "送信データテーブルのこの列は数字順に並べ替えられます。"
+
+#: includes/Config/FieldSettings.php:803
+msgid "Sort as Numeric"
+msgstr "数値として並べ替え"
+
+#: includes/Config/FieldSettings.php:779
+msgid "Description"
+msgstr "説明"
+
+#: includes/Config/FieldSettings.php:754
+msgid "Shown to users as a hover."
+msgstr "ユーザーにはホバー時に表示されます。"
+
+#: includes/Config/FieldSettings.php:742
+msgid "Label used when viewing and exporting submissions."
+msgstr "送信データを表示したりエクスポートしたりする際に使用するラベル。"
+
+#: includes/Config/FieldSettings.php:728
+msgid "Creates a unique key to identify and target your field for custom development."
+msgstr "カスタム開発向けにフィールドを識別してターゲットを設定するための一意のキーを作成します。"
+
+#: includes/Config/FieldSettings.php:724
+msgid "Field Key"
+msgstr "フィールドキー"
+
+#: includes/Config/FieldSettings.php:710
+msgid "Number of seconds for timed submit."
+msgstr "タイマー送信用の秒数。"
+
+#: includes/Config/FieldSettings.php:658
+msgid "Default To Current Date"
+msgstr "現在の日付にデフォルト"
+
+#: includes/Config/FieldSettings.php:513
+msgid "Adds an extra class to your field element."
+msgstr "フィールド要素にクラスを追加します。"
+
+#: includes/Config/FieldSettings.php:508
+#: includes/Config/FormDisplaySettings.php:155
+msgid "Element"
+msgstr "要素"
+
+#: includes/Config/FieldSettings.php:503
+msgid "Adds an extra class to your field wrapper."
+msgstr "フィールドラッパーにクラスを追加します。"
+
+#: includes/Config/FormDisplaySettings.php:147
+msgid "Wrapper"
+msgstr "ラッパー"
+
+#: includes/Config/FieldSettings.php:491
+#: includes/Config/FormDisplaySettings.php:139
+msgid "Custom Class Names"
+msgstr "カスタムクラス名"
+
+#: includes/Config/FieldSettings.php:462
+msgid "Enter text you would like displayed in the field before a user enters any data."
+msgstr "ユーザーがデータを入力する前にフィールドに表示するテキストを入力します。"
+
+#: includes/Config/FieldSettings.php:418 includes/Config/FieldSettings.php:420
+msgid "Character(s) left"
+msgstr "文字入力可能"
+
+#: includes/Config/FieldSettings.php:417
+msgid "Text to Appear After Counter"
+msgstr "カウンターの後に表示されるテキスト"
+
+#: includes/Config/FieldSettings.php:407
+msgid "Word(s)"
+msgstr "単語"
+
+#: includes/Config/FieldSettings.php:403
+msgid "Character(s)"
+msgstr "文字"
+
+#: includes/Config/FieldSettings.php:387
+msgid "Limit Input to this Number"
+msgstr "この数値の入力を制限"
+
+#: includes/Config/FieldSettings.php:365
+msgid "Custom Mask"
+msgstr "カスタムマスク"
+
+#: includes/Config/FieldSettings.php:340
+msgid "US Phone"
+msgstr "米国の電話番号"
+
+#: includes/Config/FieldSettings.php:336
+msgid "none"
+msgstr "なし"
+
+#: includes/Config/FieldSettings.php:333
+msgid "Restricts the kind of input your users can put into this field."
+msgstr "ユーザーがこのフィールドに入力できる内容の種類を制限します。"
+
+#: includes/Config/FieldSettings.php:266 includes/Config/FieldSettings.php:303
+msgid "Calc Value"
+msgstr "計算値"
+
+#: includes/Config/FieldSettings.php:246
+msgid "Options"
+msgstr "オプション"
+
+#: includes/Config/FieldSettings.php:124
+msgid "Step"
+msgstr "ステップ"
+
+#: includes/Config/FieldSettings.php:116
+msgid "Max"
+msgstr "最大値"
+
+#: includes/Config/FieldSettings.php:109
+msgid "Min"
+msgstr "最小値"
+
+#: includes/Config/FieldSettings.php:101
+msgid "Number Options"
+msgstr "数値オプション"
+
+#: includes/Config/FieldSettings.php:91
+msgid "Ensure that this field is completed before allowing the form to be submitted."
+msgstr "フォームを送信する前にこのフィールドに必ず入力してください。"
+
+#: includes/Config/FieldSettings.php:87
+msgid "Required Field"
+msgstr "必須フィールド"
+
+#: includes/Config/FieldSettings.php:76
+msgid "Select the position of your label relative to the field element itself."
+msgstr "フィールド要素自体に対するラベルの位置を選択してください。"
+
+#: includes/Config/FieldSettings.php:69 includes/Config/FieldSettings.php:1159
+#: includes/Config/FormDisplaySettings.php:125
+#: includes/Database/MockData.php:376 includes/Database/MockData.php:633
+#: includes/Fields/Hidden.php:38
+msgid "Hidden"
+msgstr "非表示"
+
+#: includes/Config/FieldSettings.php:49
+msgid "Form Default"
+msgstr "フォームデフォルト"
+
+#: includes/Config/FieldSettings.php:36
+msgid "Enter the label of the form field. This is how users will identify individual fields."
+msgstr "フォームフィールドのラベルを入力してください。これを使ってユーザーが個別のフィールドを識別します。"
+
+#: includes/Config/Example.php:25
+msgid "Help Text Here"
+msgstr "ここにヘルプテキスト"
+
+#: includes/Config/Example.php:21
+msgid "Label Here"
+msgstr "ここにラベル"
+
+#: includes/Config/ActionAkismetSettings.php:28
+#: includes/Config/ActionRedirectSettings.php:13
+msgid "URL"
+msgstr "URL"
+
+#: includes/Config/ActionEmailSettings.php:180
+msgid "Attach CSV"
+msgstr "CSV を添付"
+
+#: includes/Config/ActionEmailSettings.php:50
+msgid "Subject Text or seach for a field"
+msgstr "件名テキストまたはフィールドを検索"
+
+#: includes/Config/ActionEmailSettings.php:20
+msgid "Email address or search for a field"
+msgstr "メールアドレスまたはフィールドを検索"
+
+#: includes/Config/ActionCustomSettings.php:13
+msgid "Hook Tag"
+msgstr "フックタグ"
+
+#: includes/Config/ActionCollectPaymentSettings.php:14
+msgid "Payment Gateways"
+msgstr "ペイメントゲートウェイ"
+
+#: includes/Actions/CollectPayment.php:46
+msgid "Collect Payment"
+msgstr "支払いの回収"
+
+#: includes/Abstracts/UserInfo.php:37
+msgid "User Meta (if logged in)"
+msgstr "ユーザーメタ (ログイン中の場合)"
+
+#: includes/Abstracts/SubmissionMetabox.php:21
+msgid "Submission Metabox"
+msgstr "送信メタボックス"
+
+#: includes/Abstracts/Metabox.php:25
+msgid "Metabox"
+msgstr "メタボックス"
+
+#: includes/Abstracts/FieldOptIn.php:51
+msgid "refresh"
+msgstr "更新"
+
+#: includes/Abstracts/FieldOptIn.php:51
+msgid "Lists"
+msgstr "リスト"
+
+#: includes/Abstracts/FieldOptIn.php:43
+msgid "Multiple"
+msgstr "複数"
+
+#: includes/Abstracts/FieldOptIn.php:39
+msgid "Single"
+msgstr "シングル"
+
+#: includes/Abstracts/ActionNewsletter.php:158
+msgid "Interest Groups"
+msgstr "インタレストグループ"
+
+#: includes/Abstracts/ActionNewsletter.php:150
+msgid "List Field Mapping"
+msgstr "リストフィールドマッピング"
+
+#: includes/AJAX/Controllers/Submission.php:585
+msgid "An unexpected error occurred."
+msgstr "予期せぬエラーが発生しました。"
+
+#: includes/Admin/Menus/Forms.php:729 includes/Config/ActionSaveSettings.php:27
+#: includes/MergeTags/Fields.php:14
+msgid "Fields"
+msgstr "項目"
+
+#. Description of the plugin
+msgid "Ninja Forms is a webform builder with unparalleled ease of use and features."
+msgstr "Ninja Forms は、他にない使いやすさと機能を備えた Web フォームビルダーです。"
+
+#. Plugin Name of the plugin
+#: includes/Admin/Menus/Forms.php:59 includes/Config/i18nBuilder.php:5
+#: includes/Config/i18nFrontEnd.php:9 ninja-forms.php:579
+msgid "Ninja Forms"
+msgstr "Ninja Forms"
+
+#: includes/Config/FormDisplaySettings.php:260
+#: includes/Config/i18nFrontEnd.php:26
+msgid "Fields marked with an %s*%s are required"
+msgstr "%s*%s が付いたフィールドは必須項目です。"
+
+#: includes/Widget.php:82
+msgid "Display Title"
+msgstr "表示タイトル"
+
+#: includes/Fields/Email.php:37
+msgid "Please enter a valid email address."
+msgstr "有効なメールアドレスを入力してください。"
+
+#: includes/Config/FieldSettings.php:348
+#: includes/Config/FormDisplaySettings.php:274
+#: includes/Config/PluginSettingsGeneral.php:41
+msgid "Currency"
+msgstr "通貨"
+
+#: includes/Config/FieldSettings.php:943
+msgid "Disable Input"
+msgstr "入力を無効化"
+
+#: includes/Config/FieldSettings.php:1035
+msgid "Disable Rich Text Editor on Mobile"
+msgstr "モバイル端末でリッチテキストエディターを無効化"
+
+#: includes/Config/FieldSettings.php:1023
+msgid "Show Media Upload Button"
+msgstr "メディアアップロードボタンを表示"
+
+#: includes/Config/FieldSettings.php:1013
+msgid "Show Rich Text Editor"
+msgstr "リッチテキストエディタを表示"
+
+#: includes/Database/MockData.php:382 includes/Database/MockData.php:526
+#: includes/Templates/admin-menu-forms.html.php:61
+#: includes/Templates/admin-menu-forms.html.php:89
+#: includes/Templates/admin-menu-forms.html.php:117
+#: includes/Templates/admin-menu-forms.html.php:145
+#: includes/Templates/admin-menu-forms.html.php:173
+msgid "Textarea"
+msgstr "テキストエリア"
+
+#: includes/Database/MockData.php:165 includes/Database/MockData.php:483
+#: includes/Database/MockData.php:802 includes/Fields/Submit.php:26
+msgid "Submit"
+msgstr "送信"
+
+#: includes/Fields/Spam.php:24
+msgid "Anti-Spam"
+msgstr "スパム対策"
+
+#: includes/Fields/Recaptcha.php:75
+msgid "Captcha mismatch. Please enter the correct value in captcha field"
+msgstr "CAPTCHA の不一致。CAPTCHA フィールドに正しい値を入力してください"
+
+#: includes/Fields/Recaptcha.php:73
+msgid "Please make sure you have entered your Site & Secret keys correctly"
+msgstr "サイトと秘密鍵を正しく入力されたかご確認ください"
+
+#: includes/Config/FieldSettings.php:918
+msgid "Number of stars"
+msgstr "スターの数"
+
+#: includes/Database/MockData.php:768 includes/Fields/StarRating.php:30
+msgid "Star Rating"
+msgstr "スター評価"
+
+#: includes/Fields/PasswordConfirm.php:82
+msgid "Passwords do not match"
+msgstr "パスワードが一致しません"
+
+#: includes/Fields/Password.php:22
+msgid "Password"
+msgstr "パスワード"
+
+#: includes/Database/MockData.php:625 includes/Fields/Number.php:28
+msgid "Number"
+msgstr "数値"
+
+#: includes/Config/FieldSettings.php:246
+#: includes/Templates/admin-menu-new-form.html.php:547
+#: includes/Templates/admin-menu-new-form.html.php:562
+msgid "Import"
+msgstr "インポート"
+
+#: includes/Config/FieldSettings.php:830
+msgid "Multi-Select Box Size"
+msgstr "複数選択ボックスのサイズ"
+
+#: includes/Fields/ListMultiSelect.php:26
+msgid "Multi-Select"
+msgstr "複数選択"
+
+#: includes/Templates/admin-menu-forms.html.php:67
+#: includes/Templates/admin-menu-forms.html.php:95
+#: includes/Templates/admin-menu-forms.html.php:123
+#: includes/Templates/admin-menu-forms.html.php:151
+#: includes/Templates/admin-menu-forms.html.php:179
+msgid "Dropdown"
+msgstr "ドロップダウン"
+
+#: includes/Database/MockData.php:152
+msgid "List"
+msgstr "リスト"
+
+#: includes/Templates/admin-menu-forms.html.php:76
+#: includes/Templates/admin-menu-forms.html.php:104
+#: includes/Templates/admin-menu-forms.html.php:132
+#: includes/Templates/admin-menu-forms.html.php:160
+#: includes/Templates/admin-menu-forms.html.php:188
+msgid "Hidden Field"
+msgstr "非表示のフィールド"
+
+#: includes/Fields/CreditCard.php:26
+msgid "Credit Card"
+msgstr "クレジットカード"
+
+#: includes/Config/FieldSettings.php:970
+msgid "Custom first option"
+msgstr "カスタムファーストオプション"
+
+#: includes/Config/FieldSettings.php:957
+msgid "Use a custom first option"
+msgstr "カスタムファーストオプションを使用"
+
+#: includes/Fields/ListCountry.php:22
+msgid "Country"
+msgstr "国"
+
+#: includes/Config/CountryList.php:251
+msgid "Zimbabwe"
+msgstr "ジンバブエ"
+
+#: includes/Config/CountryList.php:250
+msgid "Zambia"
+msgstr "ザンビア"
+
+#: includes/Config/CountryList.php:249
+msgid "Yugoslavia"
+msgstr "ユーゴスラビア"
+
+#: includes/Config/CountryList.php:248
+msgid "Yemen"
+msgstr "イエメン"
+
+#: includes/Config/CountryList.php:247
+msgid "Western Sahara"
+msgstr "西サハラ"
+
+#: includes/Config/CountryList.php:246
+msgid "Wallis And Futuna Islands"
+msgstr "ウォリス・フツナ"
+
+#: includes/Config/CountryList.php:245
+msgid "Virgin Islands (U.S.)"
+msgstr "米領バージン諸島"
+
+#: includes/Config/CountryList.php:244
+msgid "Virgin Islands (British)"
+msgstr "バージン諸島 (英領)"
+
+#: includes/Config/CountryList.php:243
+msgid "Viet Nam"
+msgstr "ベトナム"
+
+#: includes/Config/CountryList.php:242
+msgid "Venezuela"
+msgstr "ベネズエラ"
+
+#: includes/Config/CountryList.php:241
+msgid "Vanuatu"
+msgstr "バヌアツ"
+
+#: includes/Config/CountryList.php:240
+msgid "Uzbekistan"
+msgstr "ウズベキスタン"
+
+#: includes/Config/CountryList.php:239
+msgid "Uruguay"
+msgstr "ウルグアイ"
+
+#: includes/Config/CountryList.php:238
+msgid "United States Minor Outlying Islands"
+msgstr "合衆国領有小離島"
+
+#: includes/Config/CountryList.php:237
+msgid "United States"
+msgstr "アメリカ合衆国"
+
+#: includes/Config/CountryList.php:236
+msgid "United Kingdom"
+msgstr "イギリス"
+
+#: includes/Config/CountryList.php:235
+msgid "United Arab Emirates"
+msgstr "アラブ首長国連邦"
+
+#: includes/Config/CountryList.php:234
+msgid "Ukraine"
+msgstr "ウクライナ"
+
+#: includes/Config/CountryList.php:233
+msgid "Uganda"
+msgstr "ウガンダ"
+
+#: includes/Config/CountryList.php:232
+msgid "Tuvalu"
+msgstr "ツバル"
+
+#: includes/Config/CountryList.php:231
+msgid "Turks And Caicos Islands"
+msgstr "タークス・カイコス諸島"
+
+#: includes/Config/CountryList.php:230
+msgid "Turkmenistan"
+msgstr "トルクメニスタン"
+
+#: includes/Config/CountryList.php:229
+msgid "Turkey"
+msgstr "トルコ"
+
+#: includes/Config/CountryList.php:228
+msgid "Tunisia"
+msgstr "チュニジア"
+
+#: includes/Config/CountryList.php:227
+msgid "Trinidad And Tobago"
+msgstr "トリニダード・トバゴ"
+
+#: includes/Config/CountryList.php:226
+msgid "Tonga"
+msgstr "トンガ"
+
+#: includes/Config/CountryList.php:225
+msgid "Tokelau"
+msgstr "トケラウ"
+
+#: includes/Config/CountryList.php:224
+msgid "Togo"
+msgstr "トーゴ"
+
+#: includes/Config/CountryList.php:223
+msgid "Thailand"
+msgstr "タイ"
+
+#: includes/Config/CountryList.php:222
+msgid "Tanzania, United Republic Of"
+msgstr "タンザニア連合共和国"
+
+#: includes/Config/CountryList.php:221
+msgid "Tajikistan"
+msgstr "タジキスタン"
+
+#: includes/Config/CountryList.php:220
+msgid "Taiwan"
+msgstr "台湾"
+
+#: includes/Config/CountryList.php:219
+msgid "Syrian Arab Republic"
+msgstr "シリア・アラブ共和国"
+
+#: includes/Config/CountryList.php:218
+msgid "Switzerland"
+msgstr "スイス"
+
+#: includes/Config/CountryList.php:217
+msgid "Sweden"
+msgstr "スウェーデン"
+
+#: includes/Config/CountryList.php:216
+msgid "Swaziland"
+msgstr "スワジランド"
+
+#: includes/Config/CountryList.php:215
+msgid "Svalbard And Jan Mayen Islands"
+msgstr "スヴァールバル諸島およびヤンマイエン島"
+
+#: includes/Config/CountryList.php:214
+msgid "Suriname"
+msgstr "スリナム"
+
+#: includes/Config/CountryList.php:213
+msgid "Sudan"
+msgstr "スーダン"
+
+#: includes/Config/CountryList.php:212
+msgid "St. Pierre And Miquelon"
+msgstr "サンピエール島・ミクロン島"
+
+#: includes/Config/CountryList.php:211
+msgid "St. Helena"
+msgstr "セント・ヘレナ"
+
+#: includes/Config/CountryList.php:210
+msgid "Sri Lanka"
+msgstr "スリランカ"
+
+#: includes/Config/CountryList.php:209
+msgid "Spain"
+msgstr "スペイン"
+
+#: includes/Config/CountryList.php:208
+msgid "South Georgia, South Sandwich Islands"
+msgstr "サウスジョージア・サウスサンドウィッチ諸島"
+
+#: includes/Config/CountryList.php:207
+msgid "South Africa"
+msgstr "南アフリカ"
+
+#: includes/Config/CountryList.php:206
+msgid "Somalia"
+msgstr "ソマリア"
+
+#: includes/Config/CountryList.php:205
+msgid "Solomon Islands"
+msgstr "ソロモン諸島"
+
+#: includes/Config/CountryList.php:204
+msgid "Slovenia"
+msgstr "スロベニア"
+
+#: includes/Config/CountryList.php:203
+msgid "Slovakia (Slovak Republic)"
+msgstr "スロバキア (スロバキア共和国)"
+
+#: includes/Config/CountryList.php:202
+msgid "Singapore"
+msgstr "シンガポール"
+
+#: includes/Config/CountryList.php:201
+msgid "Sierra Leone"
+msgstr "シエラレオネ"
+
+#: includes/Config/CountryList.php:200
+msgid "Seychelles"
+msgstr "セイシェル"
+
+#: includes/Config/CountryList.php:199
+msgid "Serbia"
+msgstr "セルビア"
+
+#: includes/Config/CountryList.php:198
+msgid "Senegal"
+msgstr "セネガル"
+
+#: includes/Config/CountryList.php:197
+msgid "Saudi Arabia"
+msgstr "サウジアラビア"
+
+#: includes/Config/CountryList.php:196
+msgid "Sao Tome And Principe"
+msgstr "サントメ・プリンシペ"
+
+#: includes/Config/CountryList.php:195
+msgid "San Marino"
+msgstr "サンマリノ"
+
+#: includes/Config/CountryList.php:194
+msgid "Samoa"
+msgstr "サモア"
+
+#: includes/Config/CountryList.php:193
+msgid "Saint Vincent And The Grenadines"
+msgstr "セントビンセント及びグレナディーン諸島"
+
+#: includes/Config/CountryList.php:192
+msgid "Saint Lucia"
+msgstr "セントルシア"
+
+#: includes/Config/CountryList.php:191
+msgid "Saint Kitts And Nevis"
+msgstr "セントキッツ・ネビス島"
+
+#: includes/Config/CountryList.php:190
+msgid "Rwanda"
+msgstr "ルワンダ"
+
+#: includes/Config/CountryList.php:189
+msgid "Russian Federation"
+msgstr "ロシア連邦"
+
+#: includes/Config/CountryList.php:188
+msgid "Romania"
+msgstr "ルーマニア"
+
+#: includes/Config/CountryList.php:187
+msgid "Reunion"
+msgstr "レユニオン"
+
+#: includes/Config/CountryList.php:186
+msgid "Qatar"
+msgstr "カタール"
+
+#: includes/Config/CountryList.php:185
+msgid "Puerto Rico"
+msgstr "プエルトリコ"
+
+#: includes/Config/CountryList.php:184
+msgid "Portugal"
+msgstr "ポルトガル"
+
+#: includes/Config/CountryList.php:183
+msgid "Poland"
+msgstr "ポーランド"
+
+#: includes/Config/CountryList.php:182
+msgid "Pitcairn"
+msgstr "ピトケアン諸島"
+
+#: includes/Config/CountryList.php:181
+msgid "Philippines"
+msgstr "フィリピン"
+
+#: includes/Config/CountryList.php:180
+msgid "Peru"
+msgstr "ペルー"
+
+#: includes/Config/CountryList.php:179
+msgid "Paraguay"
+msgstr "パラグアイ"
+
+#: includes/Config/CountryList.php:178
+msgid "Papua New Guinea"
+msgstr "パプアニューギニア"
+
+#: includes/Config/CountryList.php:177
+msgid "Panama"
+msgstr "パナマ"
+
+#: includes/Config/CountryList.php:176
+msgid "Palau"
+msgstr "パラウ"
+
+#: includes/Config/CountryList.php:175
+msgid "Pakistan"
+msgstr "パキスタン"
+
+#: includes/Config/CountryList.php:174
+msgid "Oman"
+msgstr "オマーン"
+
+#: includes/Config/CountryList.php:173
+msgid "Norway"
+msgstr "ノルウェー"
+
+#: includes/Config/CountryList.php:172
+msgid "Northern Mariana Islands"
+msgstr "北マリアナ諸島"
+
+#: includes/Config/CountryList.php:171
+msgid "Norfolk Island"
+msgstr "ノーフォーク島"
+
+#: includes/Config/CountryList.php:170
+msgid "Niue"
+msgstr "ニウエ"
+
+#: includes/Config/CountryList.php:169
+msgid "Nigeria"
+msgstr "ナイジェリア"
+
+#: includes/Config/CountryList.php:168
+msgid "Niger"
+msgstr "ニジェール"
+
+#: includes/Config/CountryList.php:167
+msgid "Nicaragua"
+msgstr "ニカラグア"
+
+#: includes/Config/CountryList.php:166
+msgid "New Zealand"
+msgstr "ニュージーランド"
+
+#: includes/Config/CountryList.php:165
+msgid "New Caledonia"
+msgstr "ニューカレドニア"
+
+#: includes/Config/CountryList.php:164
+msgid "Netherlands Antilles"
+msgstr "オランダ領アンティル"
+
+#: includes/Config/CountryList.php:163
+msgid "Netherlands"
+msgstr "オランダ"
+
+#: includes/Config/CountryList.php:162
+msgid "Nepal"
+msgstr "ネパール"
+
+#: includes/Config/CountryList.php:161
+msgid "Nauru"
+msgstr "ナウル"
+
+#: includes/Config/CountryList.php:160
+msgid "Namibia"
+msgstr "ナミビア"
+
+#: includes/Config/CountryList.php:159
+msgid "Myanmar"
+msgstr "ミャンマー"
+
+#: includes/Config/CountryList.php:158
+msgid "Mozambique"
+msgstr "モザンビーク"
+
+#: includes/Config/CountryList.php:157
+msgid "Morocco"
+msgstr "モロッコ"
+
+#: includes/Config/CountryList.php:156
+msgid "Montserrat"
+msgstr "モントセラート"
+
+#: includes/Config/CountryList.php:155
+msgid "Montenegro"
+msgstr "モンテネグロ"
+
+#: includes/Config/CountryList.php:154
+msgid "Mongolia"
+msgstr "モンゴル"
+
+#: includes/Config/CountryList.php:153
+msgid "Monaco"
+msgstr "モナコ"
+
+#: includes/Config/CountryList.php:152
+msgid "Moldova, Republic Of"
+msgstr "モルドバ共和国"
+
+#: includes/Config/CountryList.php:151
+msgid "Micronesia, Federated States Of"
+msgstr "ミクロネシア連邦"
+
+#: includes/Config/CountryList.php:150
+msgid "Mexico"
+msgstr "メキシコ"
+
+#: includes/Config/CountryList.php:149
+msgid "Mayotte"
+msgstr "マヨット"
+
+#: includes/Config/CountryList.php:148
+msgid "Mauritius"
+msgstr "モーリシャス"
+
+#: includes/Config/CountryList.php:147
+msgid "Mauritania"
+msgstr "モーリタニア"
+
+#: includes/Config/CountryList.php:146
+msgid "Martinique"
+msgstr "マルティニーク"
+
+#: includes/Config/CountryList.php:145
+msgid "Marshall Islands"
+msgstr "マーシャル諸島"
+
+#: includes/Config/CountryList.php:144
+msgid "Malta"
+msgstr "マルタ"
+
+#: includes/Config/CountryList.php:143
+msgid "Mali"
+msgstr "マリ"
+
+#: includes/Config/CountryList.php:142
+msgid "Maldives"
+msgstr "モルディブ"
+
+#: includes/Config/CountryList.php:141
+msgid "Malaysia"
+msgstr "マレーシア"
+
+#: includes/Config/CountryList.php:140
+msgid "Malawi"
+msgstr "マラウイ"
+
+#: includes/Config/CountryList.php:139
+msgid "Madagascar"
+msgstr "マダガスカル"
+
+#: includes/Config/CountryList.php:138
+msgid "Macedonia, Former Yugoslav Republic Of"
+msgstr "マケドニア、旧ユーゴスラビア共和国"
+
+#: includes/Config/CountryList.php:137
+msgid "Macau"
+msgstr "マカオ"
+
+#: includes/Config/CountryList.php:136
+msgid "Luxembourg"
+msgstr "ルクセンブルク"
+
+#: includes/Config/CountryList.php:135
+msgid "Lithuania"
+msgstr "リトアニア"
+
+#: includes/Config/CountryList.php:134
+msgid "Liechtenstein"
+msgstr "リヒテンシュタイン"
+
+#: includes/Config/CountryList.php:133
+msgid "Libyan Arab Jamahiriya"
+msgstr "リビア・アラブ・ジャマヒリーヤ"
+
+#: includes/Config/CountryList.php:132
+msgid "Liberia"
+msgstr "リベリア"
+
+#: includes/Config/CountryList.php:131
+msgid "Lesotho"
+msgstr "レソト"
+
+#: includes/Config/CountryList.php:130
+msgid "Lebanon"
+msgstr "レバノン"
+
+#: includes/Config/CountryList.php:129
+msgid "Latvia"
+msgstr "ラトビア"
+
+#: includes/Config/CountryList.php:128
+msgid "Lao People's Democratic Republic"
+msgstr "ラオス人民民主共和国"
+
+#: includes/Config/CountryList.php:127
+msgid "Kyrgyzstan"
+msgstr "キルギスタン"
+
+#: includes/Config/CountryList.php:126
+msgid "Kuwait"
+msgstr "クウェート"
+
+#: includes/Config/CountryList.php:125
+msgid "Korea, Republic Of"
+msgstr "大韓民国"
+
+#: includes/Config/CountryList.php:124
+msgid "Korea, Democratic People's Republic Of"
+msgstr "北朝鮮人民共和国"
+
+#: includes/Config/CountryList.php:123
+msgid "Kiribati"
+msgstr "キリバス"
+
+#: includes/Config/CountryList.php:122
+msgid "Kenya"
+msgstr "ケニア"
+
+#: includes/Config/CountryList.php:121
+msgid "Kazakhstan"
+msgstr "カザフスタン"
+
+#: includes/Config/CountryList.php:120
+msgid "Jordan"
+msgstr "ヨルダン"
+
+#: includes/Config/CountryList.php:119
+msgid "Japan"
+msgstr "日本"
+
+#: includes/Config/CountryList.php:118
+msgid "Jamaica"
+msgstr "ジャマイカ"
+
+#: includes/Config/CountryList.php:117
+msgid "Italy"
+msgstr "イタリア"
+
+#: includes/Config/CountryList.php:116
+msgid "Israel"
+msgstr "イスラエル"
+
+#: includes/Config/CountryList.php:115
+msgid "Ireland"
+msgstr "アイルランド"
+
+#: includes/Config/CountryList.php:114
+msgid "Iraq"
+msgstr "イラク"
+
+#: includes/Config/CountryList.php:113
+msgid "Iran (Islamic Republic Of)"
+msgstr "イラン・イスラム共和国"
+
+#: includes/Config/CountryList.php:112
+msgid "Indonesia"
+msgstr "インドネシア"
+
+#: includes/Config/CountryList.php:111
+msgid "India"
+msgstr "インド"
+
+#: includes/Config/CountryList.php:110
+msgid "Iceland"
+msgstr "アイスランド"
+
+#: includes/Config/CountryList.php:109
+msgid "Hungary"
+msgstr "ハンガリー"
+
+#: includes/Config/CountryList.php:108
+msgid "Hong Kong"
+msgstr "香港"
+
+#: includes/Config/CountryList.php:107
+msgid "Honduras"
+msgstr "ホンジュラス"
+
+#: includes/Config/CountryList.php:106
+msgid "Holy See (Vatican City State)"
+msgstr "法王聖座 (バチカン市国)"
+
+#: includes/Config/CountryList.php:105
+msgid "Heard And Mc Donald Islands"
+msgstr "ハード島とマクドナルド諸島"
+
+#: includes/Config/CountryList.php:104
+msgid "Haiti"
+msgstr "ハイチ"
+
+#: includes/Config/CountryList.php:103
+msgid "Guyana"
+msgstr "ガイアナ"
+
+#: includes/Config/CountryList.php:102
+msgid "Guinea-Bissau"
+msgstr "ギニアビサウ"
+
+#: includes/Config/CountryList.php:101
+msgid "Guinea"
+msgstr "ギニア"
+
+#: includes/Config/CountryList.php:100
+msgid "Guatemala"
+msgstr "グアテマラ"
+
+#: includes/Config/CountryList.php:99
+msgid "Guam"
+msgstr "グアム"
+
+#: includes/Config/CountryList.php:98
+msgid "Guadeloupe"
+msgstr "グアドループ"
+
+#: includes/Config/CountryList.php:97
+msgid "Grenada"
+msgstr "グレナダ"
+
+#: includes/Config/CountryList.php:96
+msgid "Greenland"
+msgstr "グリーンランド"
+
+#: includes/Config/CountryList.php:95
+msgid "Greece"
+msgstr "ギリシャ"
+
+#: includes/Config/CountryList.php:94
+msgid "Gibraltar"
+msgstr "ジブラルタル"
+
+#: includes/Config/CountryList.php:93
+msgid "Ghana"
+msgstr "ガーナ"
+
+#: includes/Config/CountryList.php:92
+msgid "Germany"
+msgstr "ドイツ"
+
+#: includes/Config/CountryList.php:91
+msgid "Georgia"
+msgstr "ジョージア"
+
+#: includes/Config/CountryList.php:90
+msgid "Gambia"
+msgstr "ガンビア"
+
+#: includes/Config/CountryList.php:89
+msgid "Gabon"
+msgstr "ガボン"
+
+#: includes/Config/CountryList.php:88
+msgid "French Southern Territories"
+msgstr "フランス領南方・南極地域"
+
+#: includes/Config/CountryList.php:87
+msgid "French Polynesia"
+msgstr "フランス領ポリネシア"
+
+#: includes/Config/CountryList.php:86
+msgid "French Guiana"
+msgstr "フランス領ギアナ"
+
+#: includes/Config/CountryList.php:85
+msgid "France, Metropolitan"
+msgstr "フランス・メトロポリテーヌ"
+
+#: includes/Config/CountryList.php:84
+msgid "France"
+msgstr "フランス"
+
+#: includes/Config/CountryList.php:83
+msgid "Finland"
+msgstr "フィンランド"
+
+#: includes/Config/CountryList.php:82
+msgid "Fiji"
+msgstr "フィジー"
+
+#: includes/Config/CountryList.php:81
+msgid "Faroe Islands"
+msgstr "フェロー諸島"
+
+#: includes/Config/CountryList.php:80
+msgid "Falkland Islands (Malvinas)"
+msgstr "フォークランド諸島 (マルビナス)"
+
+#: includes/Config/CountryList.php:79
+msgid "Ethiopia"
+msgstr "エチオピア"
+
+#: includes/Config/CountryList.php:78
+msgid "Estonia"
+msgstr "エストニア"
+
+#: includes/Config/CountryList.php:77
+msgid "Eritrea"
+msgstr "エリトリア"
+
+#: includes/Config/CountryList.php:76
+msgid "Equatorial Guinea"
+msgstr "赤道ギニア"
+
+#: includes/Config/CountryList.php:75
+msgid "El Salvador"
+msgstr "エルサルバドル"
+
+#: includes/Config/CountryList.php:74
+msgid "Egypt"
+msgstr "エジプト"
+
+#: includes/Config/CountryList.php:73
+msgid "Ecuador"
+msgstr "エクアドル"
+
+#: includes/Config/CountryList.php:72
+msgid "Timor-Leste (East Timor)"
+msgstr "東チモール"
+
+#: includes/Config/CountryList.php:71
+msgid "Dominican Republic"
+msgstr "ドミニカ共和国"
+
+#: includes/Config/CountryList.php:70
+msgid "Dominica"
+msgstr "ドミニカ"
+
+#: includes/Config/CountryList.php:69
+msgid "Djibouti"
+msgstr "ジブチ"
+
+#: includes/Config/CountryList.php:68
+msgid "Denmark"
+msgstr "デンマーク"
+
+#: includes/Config/CountryList.php:67
+msgid "Czech Republic"
+msgstr "チェコ共和国"
+
+#: includes/Config/CountryList.php:66
+msgid "Cyprus"
+msgstr "キプロス"
+
+#: includes/Config/CountryList.php:65
+msgid "Cuba"
+msgstr "キューバ"
+
+#: includes/Config/CountryList.php:64
+msgid "Croatia (Local Name: Hrvatska)"
+msgstr "クロアチア (現地名: フルバツカ)"
+
+#: includes/Config/CountryList.php:63
+msgid "Cote D'Ivoire"
+msgstr "コートジボワール"
+
+#: includes/Config/CountryList.php:62
+msgid "Costa Rica"
+msgstr "コスタリカ"
+
+#: includes/Config/CountryList.php:61
+msgid "Cook Islands"
+msgstr "クック諸島"
+
+#: includes/Config/CountryList.php:60
+msgid "Congo, The Democratic Republic Of The"
+msgstr "コンゴ民主共和国"
+
+#: includes/Config/CountryList.php:59
+msgid "Congo"
+msgstr "コンゴ民主共和国"
+
+#: includes/Config/CountryList.php:58
+msgid "Comoros"
+msgstr "コモロ"
+
+#: includes/Config/CountryList.php:57
+msgid "Colombia"
+msgstr "コロンビア"
+
+#: includes/Config/CountryList.php:56
+msgid "Cocos (Keeling) Islands"
+msgstr "ココス (キーリング) 諸島"
+
+#: includes/Config/CountryList.php:55
+msgid "Christmas Island"
+msgstr "クリスマス島"
+
+#: includes/Config/CountryList.php:54
+msgid "China"
+msgstr "中国"
+
+#: includes/Config/CountryList.php:53
+msgid "Chile"
+msgstr "チリ"
+
+#: includes/Config/CountryList.php:52
+msgid "Chad"
+msgstr "チャド"
+
+#: includes/Config/CountryList.php:51
+msgid "Central African Republic"
+msgstr "中央アフリカ共和国"
+
+#: includes/Config/CountryList.php:50
+msgid "Cayman Islands"
+msgstr "ケイマン諸島"
+
+#: includes/Config/CountryList.php:49
+msgid "Cape Verde"
+msgstr "カーボベルデ"
+
+#: includes/Config/CountryList.php:48
+msgid "Canada"
+msgstr "カナダ"
+
+#: includes/Config/CountryList.php:47
+msgid "Cameroon"
+msgstr "カメルーン"
+
+#: includes/Config/CountryList.php:46
+msgid "Cambodia"
+msgstr "カンボジア"
+
+#: includes/Config/CountryList.php:45
+msgid "Burundi"
+msgstr "ブルンジ"
+
+#: includes/Config/CountryList.php:44
+msgid "Burkina Faso"
+msgstr "ブルキナファソ"
+
+#: includes/Config/CountryList.php:43
+msgid "Bulgaria"
+msgstr "ブルガリア"
+
+#: includes/Config/CountryList.php:42
+msgid "Brunei Darussalam"
+msgstr "ブルネイ・ダルサラーム"
+
+#: includes/Config/CountryList.php:41
+msgid "British Indian Ocean Territory"
+msgstr "イギリス領インド洋地域"
+
+#: includes/Config/CountryList.php:40
+msgid "Brazil"
+msgstr "ブラジル"
+
+#: includes/Config/CountryList.php:39
+msgid "Bouvet Island"
+msgstr "ブーベ島"
+
+#: includes/Config/CountryList.php:38
+msgid "Botswana"
+msgstr "ボツワナ"
+
+#: includes/Config/CountryList.php:37
+msgid "Bosnia And Herzegowina"
+msgstr "ボスニア・ヘルツェゴビナ"
+
+#: includes/Config/CountryList.php:36
+msgid "Bolivia"
+msgstr "ボリビア"
+
+#: includes/Config/CountryList.php:35
+msgid "Bhutan"
+msgstr "ブータン"
+
+#: includes/Config/CountryList.php:34
+msgid "Bermuda"
+msgstr "バミューダ島"
+
+#: includes/Config/CountryList.php:33
+msgid "Benin"
+msgstr "ベニン"
+
+#: includes/Config/CountryList.php:32
+msgid "Belize"
+msgstr "ベリーズ"
+
+#: includes/Config/CountryList.php:31
+msgid "Belgium"
+msgstr "ベルギー"
+
+#: includes/Config/CountryList.php:30
+msgid "Belarus"
+msgstr "ベラルーシ"
+
+#: includes/Config/CountryList.php:29
+msgid "Barbados"
+msgstr "バルバドス"
+
+#: includes/Config/CountryList.php:28
+msgid "Bangladesh"
+msgstr "バングラデシュ"
+
+#: includes/Config/CountryList.php:27
+msgid "Bahrain"
+msgstr "バーレーン"
+
+#: includes/Config/CountryList.php:26
+msgid "Bahamas"
+msgstr "バハマ"
+
+#: includes/Config/CountryList.php:25
+msgid "Azerbaijan"
+msgstr "アゼルバイジャン"
+
+#: includes/Config/CountryList.php:24
+msgid "Austria"
+msgstr "オーストリア"
+
+#: includes/Config/CountryList.php:23
+msgid "Australia"
+msgstr "オーストラリア"
+
+#: includes/Config/CountryList.php:22
+msgid "Aruba"
+msgstr "アルバ"
+
+#: includes/Config/CountryList.php:21
+msgid "Armenia"
+msgstr "アルメニア"
+
+#: includes/Config/CountryList.php:20
+msgid "Argentina"
+msgstr "アルゼンチン"
+
+#: includes/Config/CountryList.php:19
+msgid "Antigua And Barbuda"
+msgstr "アンチグアバーブーダ"
+
+#: includes/Config/CountryList.php:18
+msgid "Antarctica"
+msgstr "南極"
+
+#: includes/Config/CountryList.php:17
+msgid "Anguilla"
+msgstr "アンギラ"
+
+#: includes/Config/CountryList.php:16
+msgid "Angola"
+msgstr "アンゴラ"
+
+#: includes/Config/CountryList.php:15
+msgid "Andorra"
+msgstr "アンドラ"
+
+#: includes/Config/CountryList.php:14
+msgid "American Samoa"
+msgstr "アメリカ領サモア"
+
+#: includes/Config/CountryList.php:13
+msgid "Algeria"
+msgstr "アルジェリア"
+
+#: includes/Config/CountryList.php:12
+msgid "Albania"
+msgstr "アルバニア"
+
+#: includes/Config/CountryList.php:11
+msgid "Afghanistan"
+msgstr "アフガニスタン"
+
+#: includes/Config/FieldSettings.php:147 includes/Config/FieldSettings.php:171
+#: includes/Fields/Checkbox.php:85 includes/Fields/Repeater.php:184
+msgid "Checked"
+msgstr "チェック済み"
+
+#: includes/Config/FieldSettings.php:143 includes/Config/FieldSettings.php:178
+#: includes/Fields/Checkbox.php:87 includes/Fields/Repeater.php:185
+msgid "Unchecked"
+msgstr "未チェック"
+
+#: includes/Database/MockData.php:443 includes/Database/MockData.php:531
+#: includes/Templates/admin-menu-forms.html.php:64
+#: includes/Templates/admin-menu-forms.html.php:92
+#: includes/Templates/admin-menu-forms.html.php:120
+#: includes/Templates/admin-menu-forms.html.php:148
+#: includes/Templates/admin-menu-forms.html.php:176
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+#: includes/Config/FieldSettings.php:140 includes/Config/FieldSettings.php:473
+#: includes/Fields/ListCountry.php:30
+msgid "Default Value"
+msgstr "既定値"
+
+#: includes/Config/FieldSettings.php:32 includes/Config/FieldSettings.php:257
+#: includes/Config/FieldSettings.php:295 includes/Config/FieldSettings.php:854
+#: includes/Config/FieldSettings.php:870 includes/Config/FieldSettings.php:1196
+msgid "Label"
+msgstr "ラベル"
+
+#: includes/Database/MockData.php:356 includes/Database/MockData.php:361
+#: includes/Database/MockData.php:521
+#: includes/Templates/admin-menu-forms.html.php:48
+#: includes/Templates/admin-menu-forms.html.php:49
+#: includes/Templates/admin-menu-forms.html.php:50
+#: includes/Templates/admin-menu-forms.html.php:51
+#: includes/Templates/admin-menu-forms.html.php:52
+#: includes/Templates/admin-menu-forms.html.php:58
+#: includes/Templates/admin-menu-forms.html.php:86
+#: includes/Templates/admin-menu-forms.html.php:114
+#: includes/Templates/admin-menu-forms.html.php:142
+#: includes/Templates/admin-menu-forms.html.php:170
+msgid "Textbox"
+msgstr "テキストボックス"
+
+#: includes/Config/ActionCollectPaymentSettings.php:41
+msgid "Calculation"
+msgstr "計算"
+
+#: includes/Config/FormDisplaySettings.php:248
+#: includes/Config/i18nFrontEnd.php:21
+msgid "This is a required field."
+msgstr "これは必須フィールドです。"
+
+#: includes/Config/ActionCollectPaymentSettings.php:40
+#: includes/Config/ActionCollectPaymentSettings.php:59
+#: includes/Config/ActionCollectPaymentSettings.php:77
+msgid "- Select One"
+msgstr "- 1つ選択"
+
+#: includes/Integrations/EDD/class-extension-updater.php:90
+msgid "Could not activate license. Please verify your license key"
+msgstr "ライセンスを有効化できませんでした。ライセンスキーをご確認ください"
+
+#: includes/Widget.php:14
+msgid "Ninja Forms Widget"
+msgstr "Ninja Forms ウィジェット"
+
+#: includes/Config/i18nBuilder.php:14
+#: includes/Templates/ui-nf-header.html.php:6
+#: includes/Templates/ui-nf-menu-drawer.html.php:7
+msgid "Emails & Actions"
+msgstr "メールとアクション"
+
+#: includes/Templates/admin-menu-system-status.html.php:6
+msgid "Ninja Forms Documentation"
+msgstr "Ninja Forms ドキュメンテーション"
+
+#: includes/Config/MergeTagsDeprecated.php:131
+#: includes/Config/MergeTagsWP.php:157
+msgid "User Email"
+msgstr "ユーザーのメールアドレス"
+
+#: includes/Config/FormActionDefaults.php:16
+#: includes/Config/MergeTagsDeprecated.php:170
+#: includes/Config/MergeTagsWP.php:222
+msgid "Admin Email"
+msgstr "管理者メールアドレス"
+
+#: lib/StepProcessing/menu.php:135
+msgid "The process has started, please be patient. This could take several minutes. You will be automatically redirected when the process is finished."
+msgstr "処理を開始しました。少々お待ちください。 この処理には数分かかる場合があります。 処理が完了すると、自動的にリダイレクトされます。"
+
+#: lib/StepProcessing/menu.php:110
+msgid "No Action Specified..."
+msgstr "アクションが指定されていません"
+
+#: lib/StepProcessing/menu.php:105
+msgid "Loading..."
+msgstr "読み込み中…"
+
+#: lib/StepProcessing/menu.php:72
+msgid "Ninja Forms - Processing"
+msgstr "Ninja Forms - 処理中"
+
+#: includes/Config/FieldSettings.php:1056 lib/StepProcessing/menu.php:11
+msgid "Processing"
+msgstr "処理中"
+
+#: lib/StepProcessing/menu.php:11
+msgid "Ninja Forms Processing"
+msgstr "Ninja Forms 処理中"
+
+#: includes/Admin/Menus/Forms.php:354
+msgid "Edit Form"
+msgstr "フォームを編集"
+
+#: includes/Admin/Menus/SystemStatus.php:124
+msgid "version"
+msgstr "バージョン"
+
+#: includes/Admin/Menus/SystemStatus.php:124
+msgid "by"
+msgstr "by"
+
+#: includes/Admin/Menus/SystemStatus.php:121
+msgid "Visit plugin homepage"
+msgstr "プラグインのホームページへ移動"
+
+#: includes/Templates/admin-menu-system-status.html.php:51
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: includes/Admin/Menus/SystemStatus.php:202
+msgid "Default Timezone"
+msgstr "デフォルトのタイムゾーン"
+
+#: includes/Admin/Menus/SystemStatus.php:200
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/Admin/Menus/SystemStatus.php:197
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN インストール済み"
+
+#: includes/Admin/Menus/SystemStatus.php:196
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: includes/Admin/Menus/SystemStatus.php:195
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: includes/Admin/Menus/SystemStatus.php:194
+msgid "Max Input Nesting Level"
+msgstr "最大入力ネスティングレベル"
+
+#: includes/Admin/Menus/SystemStatus.php:193
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: includes/Admin/Menus/SystemStatus.php:192
+msgid "WP Max Upload Size"
+msgstr "WP 最大アップロードサイズ"
+
+#: includes/Admin/Menus/SystemStatus.php:67
+#: includes/Config/FieldSettings.php:597
+msgid "Default"
+msgstr "デフォルト"
+
+#: includes/Admin/Menus/SystemStatus.php:191
+msgid "WP Language"
+msgstr "WP 言語"
+
+#: includes/Admin/Menus/SystemStatus.php:190
+msgid "WP Debug Mode"
+msgstr "WP デバッグモード"
+
+#: includes/Admin/Menus/SystemStatus.php:189
+msgid "WP Memory Limit"
+msgstr "WP メモリ上限"
+
+#: includes/Admin/Menus/SystemStatus.php:187
+msgid "PHP Locale"
+msgstr "PHP ロケール"
+
+#: includes/Admin/Menus/SystemStatus.php:185
+msgid "MySQL Version"
+msgstr "MySQL バージョン"
+
+#: includes/Admin/Menus/SystemStatus.php:183
+msgid "PHP Version"
+msgstr "PHP バージョン"
+
+#: includes/Admin/Menus/SystemStatus.php:182
+msgid "Web Server Info"
+msgstr "Web サーバー情報"
+
+#: includes/Admin/Menus/SystemStatus.php:43
+#: includes/Admin/Menus/SystemStatus.php:60
+#: includes/Admin/Menus/SystemStatus.php:80 build/submissions.js:1
+#: src/components/displayBulkExport.js:242
+#: src/components/triggerEmailActionComponent.js:271
+msgid "No"
+msgstr "いいえ"
+
+#: includes/Admin/Menus/SystemStatus.php:41
+#: includes/Admin/Menus/SystemStatus.php:58
+#: includes/Admin/Menus/SystemStatus.php:78 build/submissions.js:1
+#: src/components/displayBulkExport.js:240
+#: src/components/triggerEmailActionComponent.js:269
+msgid "Yes"
+msgstr "はい"
+
+#: includes/Admin/Menus/SystemStatus.php:181
+msgid "WP Multisite Enabled"
+msgstr "WP マルチサイト有効"
+
+#: includes/Admin/Menus/SystemStatus.php:180
+msgid "WP Version"
+msgstr "WP バージョン"
+
+#: includes/Admin/Menus/SystemStatus.php:176
+msgid "Ninja Forms Version"
+msgstr "Ninja Forms バージョン"
+
+#: includes/Admin/Menus/SystemStatus.php:175
+#: includes/Config/MergeTagsDeprecated.php:157
+#: includes/Config/MergeTagsWP.php:209
+msgid "Site URL"
+msgstr "サイト URL"
+
+#: includes/Admin/Menus/SystemStatus.php:174
+msgid "Home URL"
+msgstr "ホーム URL"
+
+#: includes/Templates/admin-menu-system-status.html.php:38
+msgid "Environment"
+msgstr "環境"
+
+#: includes/Templates/admin-menu-settings-licenses.html.php:3
+msgid "To activate licenses for Ninja Forms extensions you must first %sinstall and activate%s the chosen extension. License settings will then appear below."
+msgstr "Ninja Forms 拡張機能のライセンスを有効化するには、最初に選択した拡張機能を%sインストールして有効化する%s必要があります。その後、ライセンス設定が以下に表示されます。"
+
+#: includes/Admin/Menus/Settings.php:97
+msgid "Licenses"
+msgstr "ライセンス"
+
+#: includes/Config/PluginSettingsAdvanced.php:29
+msgid "This setting will COMPLETELY remove anything Ninja Forms related upon plugin deletion. This includes SUBMISSIONS and FORMS. It cannot be undone."
+msgstr "この設定にすると、プラグイン削除時に Ninja Forms 関連のデータが完全に削除されます。削除されるものの中には送信データやフォームも含まれます。 削除すると、元に戻せません。"
+
+#: includes/Config/PluginSettingsAdvanced.php:42
+msgid "Never see an admin notice on the dashboard from Ninja Forms. Uncheck to see them again."
+msgstr "Ninja Forms からの管理通知が今後ダッシュボードに表示されなくなります。 再度表示するにはチェックを外してください。"
+
+#: includes/Config/PluginSettingsAdvanced.php:41
+msgid "Disable Admin Notices"
+msgstr "管理通知を無効化"
+
+#: includes/Config/PluginSettingsAdvanced.php:16
+msgid "Remove ALL Ninja Forms data upon uninstall?"
+msgstr "アンインストール時に全 Ninja Forms データを削除"
+
+#: includes/Config/PluginSettingsReCaptcha.php:58
+msgid "Language used by reCAPTCHA. To get the code for your language click %shere%s"
+msgstr "reCAPTCHA で使用する言語。使用する言語のコードを入手するには%sこちら%sをクリックしてください。"
+
+#: includes/Config/PluginSettingsReCaptcha.php:57
+msgid "reCAPTCHA Language"
+msgstr "reCAPTCHA 言語"
+
+#: includes/Config/PluginSettingsGeneral.php:28
+msgid "Tries to follow the %sPHP date() function%s specifications, but not every format is supported."
+msgstr "%sPHP date() 関数%s の仕様に沿うよう試みますが、すべての形式がサポートされているわけではありません。"
+
+#: includes/Config/PluginSettingsGeneral.php:27
+msgid "Date Format"
+msgstr "日付形式"
+
+#: includes/Config/PluginSettingsGeneral.php:14
+msgid "Version"
+msgstr "バージョン"
+
+#: includes/Config/PluginSettingsGroups.php:7
+msgid "General Settings"
+msgstr "一般設定"
+
+#: includes/Templates/admin-notice-form-import.html.php:3
+msgid "Form Imported Successfully."
+msgstr "フォームをインポートしました。"
+
+#: includes/Config/i18nDashboard.php:70
+#: includes/Templates/admin-metabox-import-export-forms-export.html.php:61
+#: includes/Templates/admin-metabox-import-export-forms-export.html.php:64
+msgid "Export Form"
+msgstr "フォームをエクスポート"
+
+#: includes/Templates/admin-metabox-import-export-forms-import.html.php:26
+#: includes/Templates/admin-metabox-import-export-forms-import.html.php:29
+msgid "Import Form"
+msgstr "フォームをインポート"
+
+#: includes/Templates/admin-metabox-import-export-favorite-fields-export.html.php:24
+#: includes/Templates/admin-metabox-import-export-favorite-fields-export.html.php:27
+msgid "Export Fields"
+msgstr "フィールドをエクスポート"
+
+#: includes/Admin/Menus/ImportExport.php:223
+msgid "Export Favorite Fields"
+msgstr "お気に入りフィールドをエクスポート"
+
+#: includes/Config/i18nFrontEnd.php:18
+#: includes/Templates/admin-metabox-import-export-favorite-fields-import.html.php:9
+#: includes/Templates/admin-metabox-import-export-forms-import.html.php:14
+msgid "Select a file"
+msgstr "ファイルを選択"
+
+#: includes/Admin/Menus/ImportExport.php:216
+msgid "Import Favorite Fields"
+msgstr "お気に入りフィールドをインポート"
+
+#: includes/Templates/admin-menu-addons.html.php:72
+#: includes/Templates/admin-menu-addons.html.php:78
+#: lib/NF_VersionSwitcher.php:274
+msgid "Learn More"
+msgstr "さらに詳しく"
+
+#: includes/Config/i18nBuilder.php:12
+#: includes/Templates/admin-menu-addons.html.php:68
+msgid "Installed"
+msgstr "インストール済み"
+
+#: includes/Config/ActionSettings.php:27
+#: includes/Templates/admin-menu-addons.html.php:64
+msgid "Active"
+msgstr "有効"
+
+#: includes/Templates/admin-menu-addons.html.php:56
+msgid "Documentation coming soon."
+msgstr "ドキュメンテーションは間もなくご利用いただけます。"
+
+#: includes/Config/FormRestrictionSettings.php:121
+msgid "Limit Reached Message"
+msgstr "制限到達メッセージ"
+
+#: includes/Config/FormRestrictionSettings.php:92
+msgid "Limit Submissions"
+msgstr "送信を制限"
+
+#: includes/Config/FormRestrictionSettings.php:81
+msgid "Not Logged-In Message"
+msgstr "未ログインメッセージ"
+
+#: includes/Config/FormRestrictionSettings.php:67
+msgid "Require user to be logged in to view form?"
+msgstr "ユーザーがフォームを表示するにはログインを必須にする"
+
+#: includes/Config/FormSettingsTypes.php:12
+#: includes/Config/SettingsGroups.php:19
+msgid "Restrictions"
+msgstr "制限"
+
+#: includes/Config/FormDisplaySettings.php:94
+msgid "If this box is checked, Ninja Forms will hide the form after it has been successfully submitted."
+msgstr "このチェックボックスをオンにすると、Ninja Forms は正常に送信された後にフォームを非表示にします。"
+
+#: includes/Config/FormDisplaySettings.php:90
+msgid "Hide successfully completed form?"
+msgstr "完了したフォームを非表示にする"
+
+#: includes/Config/FormDisplaySettings.php:80
+msgid "If this box is checked, Ninja Forms will clear the form values after it has been successfully submitted."
+msgstr "このチェックボックスをオンにすると、Ninja Forms は正常に送信された後にフォームの値をクリアします。"
+
+#: includes/Config/FormDisplaySettings.php:76
+msgid "Clear successfully completed form?"
+msgstr "完了したフォームをクリアする"
+
+#: includes/Config/FormDisplaySettings.php:26
+msgid "Display Form Title"
+msgstr "フォームタイトルを表示"
+
+#: includes/Config/SettingsGroups.php:24
+msgid "Display"
+msgstr "表示"
+
+#: includes/Templates/admin-menu-all-forms-column-title.html.php:27
+#: includes/Templates/admin-menu-dashboard.html.php:216
+msgid "View Submissions"
+msgstr "送信データを表示"
+
+#: includes/Admin/AllFormsTable.php:75
+#: includes/Templates/admin-menu-dashboard.html.php:181
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: includes/Admin/AllFormsTable.php:74
+#: includes/Config/FormDisplaySettings.php:12
+#: includes/Config/MergeTagsForm.php:27
+msgid "Form Title"
+msgstr "フォーム名"
+
+#: includes/Admin/Menus/ImportExport.php:148
+#: includes/Config/FieldTypeSections.php:13
+#: includes/Config/PluginSettingsGroups.php:22
+#: includes/Templates/admin-metabox-import-export-favorite-fields-export.html.php:9
+msgid "Favorite Fields"
+msgstr "お気に入りフィールド"
+
+#: includes/Config/FieldSettings.php:330
+msgid "Input Mask"
+msgstr "入力マスク"
+
+#: includes/Config/AdminNotices.php:15
+msgid "Get Some Help"
+msgstr "ヘルプを利用"
+
+#: includes/Config/AdminNotices.php:14
+msgid "Check out our documentation"
+msgstr "ドキュメンテーションを確認"
+
+#: includes/Config/AdminNotices.php:13
+msgid "Thank you for using Ninja Forms! We hope that you've found everything you need, but if you have any questions:"
+msgstr "Ninja Forms をご利用いただきありがとうございます。必要な情報をすでにすべて見つけることができていればよいのですが、もし質問がある場合は以下のリンクをご利用ください。"
+
+#: includes/Config/AdminNotices.php:12
+msgid "How's It Going?"
+msgstr "使い心地はいかがですか ?"
+
+#: includes/Templates/admin-menu-all-forms-column-title.html.php:23
+#: includes/Templates/admin-menu-dashboard.html.php:205
+msgid "Preview Form"
+msgstr "フォームのプレビュー"
+
+#: includes/Config/FieldSettings.php:352
+msgid "Custom"
+msgstr "カスタム"
+
+#: includes/Database/MockData.php:724 includes/Database/MockData.php:925
+#: includes/Database/MockData.php:986 includes/Database/MockData.php:1089
+#: includes/Fields/Shipping.php:30
+msgid "Shipping"
+msgstr "配送方法"
+
+#: includes/Config/FieldSettings.php:738
+msgid "Admin Label"
+msgstr "管理用ラベル"
+
+#: includes/Config/FieldSettings.php:458
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+#: includes/Templates/admin-menu-settings.html.php:33
+msgid "Edit Menu Item"
+msgstr "メニュー項目を編集"
+
+#: includes/Config/FieldSettings.php:46
+#: includes/Templates/admin-menu-forms.html.php:25
+msgid "Label Position"
+msgstr "ラベルの位置"
+
+#: includes/Config/FieldSettings.php:65
+#: includes/Config/FormDisplaySettings.php:121
+msgid "Right of Element"
+msgstr "要素の右"
+
+#: includes/Config/FieldSettings.php:57
+#: includes/Config/FormDisplaySettings.php:113
+msgid "Below Element"
+msgstr "要素の下"
+
+#: includes/Config/FieldSettings.php:53
+#: includes/Config/FormDisplaySettings.php:109
+msgid "Above Element"
+msgstr "要素の上"
+
+#: includes/Config/FieldSettings.php:61
+#: includes/Config/FormDisplaySettings.php:117
+msgid "Left of Element"
+msgstr "要素の左"
+
+#: includes/Config/i18nFrontEnd.php:32
+msgid "of"
+msgstr "/"
+
+#: includes/Config/FieldSettings.php:752
+msgid "Help Text"
+msgstr "ヘルプテキスト"
+
+#: includes/Admin/Metaboxes/AppendAForm.php:62
+#: includes/Config/PluginSettingsAdvanced.php:90 includes/Widget.php:89
+msgid "None"
+msgstr "なし"
+
+#: includes/Config/FieldSettings.php:931
+msgid "Disable Browser Autocomplete"
+msgstr "ブラウザーの自動補完機能を無効化"
+
+#: includes/Display/Preview.php:41
+#: includes/Templates/ui-nf-menu-drawer.html.php:9
+msgid "Preview"
+msgstr "プレビュー"
+
+#: includes/Admin/Menus/Addons.php:34
+msgid "Add-Ons"
+msgstr "アドオン"
+
+#: includes/Admin/Menus/Settings.php:85 includes/Admin/Menus/Settings.php:96
+#: includes/Config/FieldSettings.php:990
+#: includes/Templates/admin-menu-settings.html.php:3
+#: includes/Templates/ui-nf-header.html.php:7
+#: includes/Templates/ui-nf-menu-drawer.html.php:8
+msgid "Settings"
+msgstr "設定"
+
+#: includes/Admin/Menus/ImportExport.php:47
+#: includes/Templates/admin-menu-import-export.html.php:3
+msgid "Import / Export"
+msgstr "インポート/エクスポート"
+
+#: includes/Admin/AllFormsTable.php:21 includes/Config/DashboardMenuItems.php:7
+msgid "Forms"
+msgstr "フォーム"
+
+#: includes/Integrations/EDD/EDD_SL_Plugin_Updater.php:465
+msgid "Error"
+msgstr "エラー"
+
+#: includes/Integrations/EDD/EDD_SL_Plugin_Updater.php:465
+msgid "You do not have permission to install plugin updates"
+msgstr "プラグインアップデートをインストールする権限がありません"
+
+#: includes/Database/Models/Submission.php:398
+#: includes/Exports/SubmissionCsvExport.php:257
+msgid "Date Submitted"
+msgstr "送信日"
+
+#: includes/Templates/admin-metabox-sub-info.html.php:35 build/submissions.js:1
+msgid "Update"
+msgstr "更新"
+
+#: includes/Admin/AllFormsTable.php:20
+#: includes/Admin/Menus/ImportExport.php:147 includes/MergeTags/Form.php:19
+msgid "Form"
+msgstr "フォーム"
+
+#: includes/Config/FieldSettings.php:262 includes/Config/FieldSettings.php:299
+#: includes/Config/FieldSettings.php:1201
+#: includes/Templates/admin-metabox-sub-fields.html.php:8
+msgid "Value"
+msgstr "値"
+
+#: includes/Config/ActionCollectPaymentSettings.php:42
+#: includes/Templates/admin-menu-forms.html.php:7
+#: includes/Templates/admin-metabox-sub-fields.html.php:7
+#: build/submissions.js:1
+msgid "Field"
+msgstr "フィールド"
+
+#: includes/Admin/CPT/Submission.php:300
+msgid "User Submitted Values"
+msgstr "ユーザーの送信値"
+
+#: includes/Admin/CPT/DownloadAllSubmissions.php:163
+#: includes/Admin/Menus/Submissions.php:394 build/submissions.js:1
+msgid "Download All Submissions"
+msgstr "すべての送信データをダウンロード"
+
+#: includes/Templates/admin-menu-subs-filter.html.php:29
+msgid "End Date"
+msgstr "終了日"
+
+#: includes/Templates/admin-menu-subs-filter.html.php:27
+msgid "Begin Date"
+msgstr "開始日"
+
+#: includes/Templates/admin-metabox-import-export-forms-export.html.php:9
+msgid "Select a form"
+msgstr "フォームを選択"
+
+#: includes/Admin/Menus/ImportExport.php:175
+#: includes/Admin/Menus/Settings.php:195 includes/Admin/Menus/Settings.php:221
+#: build/submissions.js:1
+msgid "Trash"
+msgstr "ゴミ箱"
+
+#: includes/Admin/CPT/Submission.php:142
+#: includes/Admin/Menus/Submissions.php:376
+#: includes/Admin/Menus/Submissions.php:377 build/submissions.js:1
+#: src/components/displayBulkExport.js:225
+msgid "Export"
+msgstr "エクスポート"
+
+#: includes/Admin/CPT/Submission.php:192
+#: includes/Admin/Menus/Submissions.php:204
+#: includes/Config/FieldSettings.php:344
+#: includes/Config/MergeTagsDeprecated.php:183
+#: includes/Config/MergeTagsOther.php:25 includes/Database/MockData.php:620
+msgid "Date"
+msgstr "日付"
+
+#: includes/Admin/CPT/Submission.php:160
+#: includes/Admin/Menus/Submissions.php:183
+msgid "#"
+msgstr "#"
+
+#: includes/Admin/CPT/Submission.php:56 includes/Admin/CPT/Submission.php:57
+#: includes/Admin/Menus/Submissions.php:641 includes/Routes/Submissions.php:46
+#: build/submissions.js:1
+msgid "Submissions"
+msgstr "送信"
+
+#: includes/Admin/CPT/Submission.php:480
+msgid "No Submissions Found"
+msgstr "送信データが見つかりませんでした"
+
+#: includes/Admin/CPT/Submission.php:478 build/submissions.js:1
+msgid "Please select a form to view submissions"
+msgstr "送信データを表示するにはフォームを選択してください"
+
+#: includes/Config/ActionSettings.php:13
+msgid "Action Name"
+msgstr "アクション名"
+
+#: includes/Admin/CPT/Submission.php:61 includes/Admin/Menus/AddNew.php:33
+#: includes/Config/ActionSaveSettings.php:40
+#: includes/Config/FieldSettings.php:246 includes/Config/FieldSettings.php:284
+#: includes/Config/FieldSettings.php:1186
+#: includes/Config/FormCalculationSettings.php:12
+#: includes/Templates/admin-menu-dashboard.html.php:164
+msgid "Add New"
+msgstr "新規追加"
+
+#: includes/Config/FieldSettings.php:981 includes/Config/i18nDashboard.php:65
+#: includes/Templates/admin-menu-new-form.html.php:256
+msgid "Type"
+msgstr "タイプ"
+
+#: includes/Config/ActionAkismetSettings.php:10
+#: includes/Database/MockData.php:66 includes/Database/MockData.php:255
+#: includes/Templates/admin-menu-new-form.html.php:255
+msgid "Name"
+msgstr "名前"
+
+#: includes/Templates/admin-menu-all-forms-column-title.html.php:19
+#: includes/Templates/admin-menu-dashboard.html.php:204
+#: includes/Templates/ui-item-controls.html.php:3
+#: includes/Templates/ui-nf-drawer-buttons.html.php:3
+msgid "Duplicate"
+msgstr "複製"
+
+#: includes/Admin/AllFormsTable.php:222 includes/Admin/Menus/Settings.php:151
+#: includes/Config/i18nBuilder.php:75 includes/Config/i18nDashboard.php:67
+#: includes/Templates/admin-menu-all-forms-column-title.html.php:15
+#: includes/Templates/admin-menu-dashboard.html.php:217
+#: includes/Templates/ui-item-controls.html.php:2
+#: includes/Templates/ui-nf-drawer-buttons.html.php:2 build/submissions.js:1
+msgid "Delete"
+msgstr "削除"
+
+#: includes/Templates/admin-menu-all-forms-column-title.html.php:10
+#: includes/Templates/admin-menu-dashboard.html.php:203
+#: includes/Templates/admin-menu-new-form.html.php:245
+#: includes/Templates/ui-item-controls.html.php:4 build/submissions.js:1
+msgid "Edit"
+msgstr "編集"
+
+#: includes/Templates/admin-menu-settings-licenses.html.php:27
+msgid "Activate"
+msgstr "有効化"
+
+#: includes/Config/ActionAkismetSettings.php:37
+#: includes/Config/ActionSuccessMessageSettings.php:13
+#: includes/Database/MockData.php:105
+msgid "Message"
+msgstr "メッセージ"
+
+#: includes/Actions/SuccessMessage.php:35
+#: includes/Config/FormActionDefaults.php:7 includes/Database/MockData.php:953
+#: includes/Database/MockData.php:1014 includes/Database/MockData.php:1117
+#: includes/Database/MockData.php:1156
+msgid "Success Message"
+msgstr "成功メッセージ"
+
+#: includes/Actions/Redirect.php:35
+msgid "Redirect"
+msgstr "リダイレクト"
+
+#: includes/Config/ActionEmailSettings.php:166
+msgid "Bcc"
+msgstr "Bcc"
+
+#: includes/Config/ActionEmailSettings.php:152
+msgid "Cc"
+msgstr "Cc"
+
+#: includes/Config/ActionEmailSettings.php:34
+msgid "Reply To"
+msgstr "返信先"
+
+#: includes/Config/ActionEmailSettings.php:136
+msgid "Plain Text"
+msgstr "プレーンテキスト"
+
+#: includes/Config/ActionEmailSettings.php:135 includes/Fields/HTML.php:41
+#: includes/Fields/Note.php:33
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/Config/ActionEmailSettings.php:139
+#: includes/Config/FieldSettings.php:592
+msgid "Format"
+msgstr "フォーマット"
+
+#: includes/Config/PluginSettingsGroups.php:17
+msgid "Advanced Settings"
+msgstr "詳細設定"
+
+#: includes/Config/ActionEmailSettings.php:64
+#: includes/Config/ActionEmailSettings.php:82
+msgid "Email Message"
+msgstr "メール本文"
+
+#: includes/Config/ActionEmailSettings.php:49
+msgid "Subject"
+msgstr "件名"
+
+#: includes/Config/ActionEmailSettings.php:19
+msgid "To"
+msgstr "宛先"
+
+#: includes/Config/ActionEmailSettings.php:122
+msgid "One email address or field"
+msgstr "1個のメールアドレスまたはフィールド"
+
+#: includes/Config/ActionEmailSettings.php:121
+msgid "From Address"
+msgstr "送信元アドレス"
+
+#: includes/Config/ActionEmailSettings.php:107
+msgid "Name or fields"
+msgstr "名前またはフィールド"
+
+#: includes/Config/ActionEmailSettings.php:106
+msgid "From Name"
+msgstr "フォーム名"
+
+#: includes/Actions/Email.php:35 includes/Config/ActionAkismetSettings.php:19
+#: includes/Config/ActionDeleteDataRequestSettings.php:19
+#: includes/Config/ActionExportDataRequestSettings.php:19
+#: includes/Database/MockData.php:81 includes/Database/MockData.php:262
+#: includes/Database/MockData.php:294 includes/Database/MockData.php:663
+#: includes/Fields/Email.php:28
+msgid "Email"
+msgstr "メール"
+
+#: includes/Config/AdminNotices.php:16
+msgid "Dismiss"
+msgstr "非表示"
+
+#: includes/Admin/AddFormModal.php:79
+msgid "Insert"
+msgstr "挿入"
+
+#: includes/Admin/Menus/ImportExport.php:176
+#: includes/Admin/Menus/Settings.php:193 includes/Admin/Menus/Settings.php:196
+#: includes/Admin/Menus/Settings.php:219 includes/Admin/Menus/Settings.php:222
+#: includes/Config/i18nBuilder.php:76 includes/Config/i18nDashboard.php:68
+#: includes/Config/i18nDashboard.php:79
+#: includes/Templates/admin-menu-dashboard.html.php:165
+#: includes/Templates/admin-menu-new-form.html.php:599
+#: includes/Templates/ui-nf-header.html.php:12 build/submissions.js:1
+#: src/components/displayBulkExport.js:232
+#: src/components/triggerEmailActionComponent.js:259
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: includes/Admin/AddFormModal.php:111
+msgid "Select a form or type to search"
+msgstr "フォームを選択または入力して検索"
+
+#: includes/Admin/AddFormModal.php:48
+msgid "Add Form"
+msgstr "フォームを追加"
